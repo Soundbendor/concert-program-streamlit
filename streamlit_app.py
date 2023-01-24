@@ -17,3 +17,7 @@ with features:
     st.markdown('* **Beethoven**')
     st.markdown('* **Mozart**')
     st.markdown('* **Tchaikovsky**')
+
+    sel_col, disp_col = st.columns(2)
+
+    n_composers = sel_col.selectbox('Which composer would you like to choose?', options=['Beethoven', 'Mozart', 'Tchaikovsky'], index = 0)
