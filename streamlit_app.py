@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(
-    title="concert program OCR"
+    page_title="concert program OCR"
 )
 
 header = st.container()
