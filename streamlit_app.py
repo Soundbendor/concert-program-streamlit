@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 st.set_page_config(
     page_title="concert program OCR"
@@ -19,6 +20,9 @@ with dataset:
     st.header('concert program dataset')
     st.text('This data is scrapped from the New York Philharmonic which provides publicily\n'
             'available archives of documents.')
+    sample = pd.read_csv('data/example_concert_data.csv')
+    st.bar_chart(sample, y=['orch','first_location'])
+
 
 with features:
     st.header('available composers')
