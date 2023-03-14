@@ -19,8 +19,10 @@ with header:
 with dataset:
     st.header(':orange[concert program dataset]')
     st.text('This data is scrapped from the New York Philharmonic which provides publicily\n'
-            'available archives of documents.')
+            'available archives of documents.\n'
+            'Note that you can sort, resize, and search through the table.')
     sample = pd.read_csv('data/example_concert_data.csv')
+    st.dataframe(sample, use_container_width=True)
     st.bar_chart(sample, y=['orch','first_location'])
 
 
