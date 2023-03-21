@@ -8,6 +8,7 @@ st.set_page_config(
 header = st.container()
 dataset = st.container()
 features = st.container()
+contacts = st.container()
 
 with header:
     st.title(':orange[soundbendor lab: concert program OCR]')
@@ -15,6 +16,8 @@ with header:
             'processing techniques to historic documents describing musical pieces and specific\n'
             'performances. This project allows users to download datasets of professional\n' 
             'symphony orchestra concert programs.')
+    st.text('Link to GitHub repository:\n' 
+            'https://github.com/Soundbendor/concert-program-ocr')
 
 with dataset:
     st.header(':orange[concert program dataset]')
@@ -36,3 +39,8 @@ with features:
 
     n_composers = sel_col.selectbox('Which composer would you like to choose?',
         options=['Beethoven', 'Mozart', 'Tchaikovsky'], index = 0)
+
+with contacts:
+    st.header(':orange[contact information]')
+    st.text('Author: Patrick Donnelly\n'
+            'Contributors: Jonah Broyer, Samson DeVol')
