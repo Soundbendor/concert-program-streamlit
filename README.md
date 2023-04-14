@@ -1,6 +1,6 @@
-# Welcome to Streamlit!
+# Music Concert Program OCR
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire. :heart:
+The Concert Program OCR project aims to provide machine learning researchers a robust database of metadata, program images, OCR text, and supplementary information for classical music concerts. 
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+Author: Patrick Donnelly
+Contributors: Jonah Broyer, Samson DeVol
