@@ -28,6 +28,10 @@ with dataset:
     st.dataframe(sample, use_container_width=True)
 
 with features:
+    @st.cache
+    def convert_df(df):
+        return df.to_csv(index=False).encode('utf-8')
+    
     st.header(':orange[available composers]')
     st.markdown('* **Beethoven**')
     st.markdown('* **Mozart**')
@@ -36,24 +40,21 @@ with features:
     sel_col, disp_col = st.columns(2)
 
     n_composers = sel_col.selectbox('Which composer would you like to choose?',
-        options=['Beethoven', 'Mozart', 'Tchaikovsky'], index = 0)
+        options=['Beethoven', 'Mozart', 'Tchaikovsky', 'Example'], index = 0)
     
-    music_df = pd.read_csv("data/music.csv")
-    st.dataframe(music_df)
-    
-    @st.cache
-    def convert_df(df):
-        return df.to_csv(index=False).encode('utf-8')
-    
-    music_csv = convert_df(music_df)
-    
-    st.download_button(
-        label="Download data as CSV",
-        data=music_csv,
-        file_name="music.csv",
-        mime="text/csv",
-        help="Click or Tap the button to download",
-    )
+    if n_composers is "Example":
+        music_df = pd.read_csv("data/music.csv")
+        st.dataframe(music_df)
+        
+        music_csv = convert_df(music_df)
+        
+        st.download_button(
+            label="Download data as CSV",
+            data=music_csv,
+            file_name="music.csv",
+            mime="text/csv",
+            help="Click or Tap the button to download",
+        )
 
 with contacts:
     st.header(':orange[contact information]')
