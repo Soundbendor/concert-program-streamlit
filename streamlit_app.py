@@ -32,17 +32,14 @@ with features:
     def convert_df(df):
         return df.to_csv(index=False).encode('utf-8')
     
-    st.header(':orange[available composers]')
-    st.markdown('* **Beethoven**')
-    st.markdown('* **Mozart**')
-    st.markdown('* **Tchaikovsky**')
+    st.header(':orange[datasets]')
 
     sel_col, disp_col = st.columns(2)
 
-    n_composers = sel_col.selectbox('Which composer would you like to choose?',
-        options=['Beethoven', 'Mozart', 'Tchaikovsky', 'Example'], index = 0)
+    n_composers = sel_col.selectbox('Which sample would you like to choose?',
+        options=['Sample 1', 'Sample 2', 'Sample 3', 'Example'], index = 3)
     
-    if n_composers is "Example":
+    if n_composers is "Sample 1":
         music_df = pd.read_csv("data/music.csv")
         st.dataframe(music_df)
         
@@ -53,7 +50,20 @@ with features:
             data=music_csv,
             file_name="music.csv",
             mime="text/csv",
-            help="Click or Tap the button to download",
+            help="Click or Tap the button to download"
+        )
+    elif n_composers is "Sample 2":
+        music_df = pd.read_csv("data/first200_concert_metadata.csv")
+        st.dataframe(music_df)
+
+        music_csv = convert_df(music_df)
+
+        st.download_button(
+            label="Download data as CSV",
+            data=music_csv,
+            file_name="first200_concert_metadata.csv"
+            mime="text/csv",
+            help="Click or Tap the button to download"
         )
 
 with contacts:
