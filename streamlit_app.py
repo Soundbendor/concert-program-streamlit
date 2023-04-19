@@ -61,7 +61,7 @@ with features:
         st.download_button(
             label="Download data as CSV",
             data=music_csv,
-            file_name="first200_concert_metadata.csv"
+            file_name="first200_concert_metadata.csv",
             mime="text/csv",
             help="Click or Tap the button to download"
         )
