@@ -28,7 +28,7 @@ with dataset:
     st.dataframe(sample, use_container_width=True)
 
 with features:
-    @st.cache
+    @st.cache_data
     def convert_df(df):
         return df.to_csv(index=False).encode('utf-8')
     
