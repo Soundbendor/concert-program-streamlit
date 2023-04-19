@@ -1,4 +1,4 @@
 altair
 pandas
 streamlit
-python >= 10
+python_version >= "10"
