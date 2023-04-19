@@ -37,10 +37,10 @@ with features:
     sel_col, disp_col = st.columns(2)
 
     n_composers = sel_col.selectbox('Which sample would you like to choose?',
-        options=['Sample 1', 'Sample 2', 'Sample 3', 'Example'], index = 3)
+        options=['Sample 1', 'Sample 2', 'Sample 3'], index = 0)
     
     if n_composers is "Sample 1":
-        music_df = pd.read_csv("data/music.csv")
+        music_df = pd.read_csv("data/sample1.csv")
         st.dataframe(music_df)
         
         music_csv = convert_df(music_df)
@@ -48,20 +48,20 @@ with features:
         st.download_button(
             label="Download data as CSV",
             data=music_csv,
-            file_name="music.csv",
+            file_name="sample1.csv",
             mime="text/csv",
             help="Click or Tap the button to download"
         )
     elif n_composers is "Sample 2":
-        music_df = pd.read_csv("data/first200_concert_metadata.csv")
-        st.dataframe(music_df)
+        sample2_df = pd.read_csv("data/sample2.csv")
+        st.dataframe(sample2_df)
 
-        music_csv = convert_df(music_df)
+        sample2_csv = convert_df(sample2_df)
 
         st.download_button(
             label="Download data as CSV",
-            data=music_csv,
-            file_name="first200_concert_metadata.csv",
+            data=sample2_csv,
+            file_name="sample2.csv",
             mime="text/csv",
             help="Click or Tap the button to download"
         )
