@@ -38,33 +38,34 @@ with features:
 
     n_composers = sel_col.selectbox('Which sample would you like to choose?',
         options=['Sample 1', 'Sample 2', 'Sample 3'], index = 0)
-    
-    if n_composers is "Sample 1":
-        music_df = pd.read_csv("data/sample1.csv")
-        st.dataframe(music_df)
-        
-        music_csv = convert_df(music_df)
-        
-        st.download_button(
-            label="Download data as CSV",
-            data=music_csv,
-            file_name="sample1.csv",
-            mime="text/csv",
-            help="Click or Tap the button to download"
-        )
-    elif n_composers is "Sample 2":
-        sample2_df = pd.read_csv("data/sample2.csv")
-        st.dataframe(sample2_df)
 
-        sample2_csv = convert_df(sample2_df)
-
-        st.download_button(
-            label="Download data as CSV",
-            data=sample2_csv,
-            file_name="sample2.csv",
-            mime="text/csv",
-            help="Click or Tap the button to download"
-        )
+    match n_composers:
+        case 'Sample 1':
+            sample_1_df = pd.read_csv("data/sample1.csv")
+            st.dataframe(sample_1_df)
+            
+            sample_1_csv = convert_df(sample_1_df)
+            
+            st.download_button(
+                label="Download data as CSV",
+                data=sample_1_csv,
+                file_name="sample1.csv",
+                mime="text/csv",
+                help="Click or Tap the button to download"
+            )
+        case 'Sample 2':
+            sample_2_df = pd.read_csv("data/sample2.csv")
+            st.dataframe(sample_2_df)
+            
+            sample_2_csv = convert_df(sample_2_df)
+            
+            st.download_button(
+                label="Download data as CSV",
+                data=sample_2_csv,
+                file_name="sample2.csv",
+                mime="text/csv",
+                help="Click or Tap the button to download"
+            )
 
 with contacts:
     st.header(':orange[contact information]')
