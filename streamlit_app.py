@@ -63,6 +63,19 @@ with features:
             mime="text/csv",
             help="Click or Tap the button to download"
         )
+    if n_composers == "Sample 3":
+        sample_3_df = pd.read_csv("data/sample3.csv")
+        st.dataframe(sample_3_df)
+        
+        sample_3_csv = convert_df(sample_3_df)
+        
+        st.download_button(
+            label="Download data as CSV",
+            data=sample_3_csv,
+            file_name="sample3.csv",
+            mime="text/csv",
+            help="Click or Tap the button to download"
+        )
 
 with contacts:
     st.header(':orange[contact information]')
