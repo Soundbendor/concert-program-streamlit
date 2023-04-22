@@ -21,11 +21,17 @@ with header:
 
 with dataset:
     st.header(':orange[concert program dataset]')
-    st.text('This data is scrapped from the New York Philharmonic which provides publicily\n'
+    st.text('This metadata is scrapped from the New York Philharmonic which provides publicily\n'
             'available archives of documents.\n'
             'Note that you can sort, resize, and search through the table.')
 
 with features:
+    st.header('available datasets')
+    st.markdown('* **Sample 1:** small (1 KB)')
+    st.markdown('* **Sample 2:** medium (17.2 KB)')
+    st.markdown('* **Sample 3** large (314 KB)')
+    st.markdown('* **Sample 4** full (1.2 MB)')
+
     @st.cache_data
     def convert_df(df):
         return df.to_csv(index=False).encode('utf-8')
@@ -35,7 +41,7 @@ with features:
     sel_col, disp_col = st.columns(2)
 
     n_composers = sel_col.selectbox('Which sample would you like to choose?',
-        options=['Sample 1', 'Sample 2', 'Sample 3'], index = 0)
+        options=['Sample 1', 'Sample 2', 'Sample 3', 'Sample 4'], index = 0)
 
     if n_composers == "Sample 1":
         sample_1_df = pd.read_csv("data/sample1.csv")
@@ -76,6 +82,19 @@ with features:
             mime="text/csv",
             help="Click or Tap the button to download"
         )
+    if n_composers == "Sample 4":
+        sample_4_df = pd.read_csv("data/sample4.csv")
+        st.dataframe(sample_4_df)
+        
+        sample_4_csv = convert_df(sample_4_df)
+        
+        st.download_button(
+            label="Download data as CSV",
+            data=sample_4_csv,
+            file_name="sample4.csv",
+            mime="text/csv",
+            help="Click or Tap the button to download"
+    )
 
 with contacts:
     st.header(':orange[contact information]')
