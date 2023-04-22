@@ -11,7 +11,7 @@ features = st.container()
 contacts = st.container()
 
 with header:
-    st.title(':orange[soundbendor lab: concert program OCR]')
+    st.title('soundbendor lab: concert program OCR')
     st.text('Researchers in computational musicology desire to apply modern natural language\n'
             'processing techniques to historic documents describing musical pieces and specific\n'
             'performances. This project allows users to download datasets of professional\n' 
@@ -20,7 +20,7 @@ with header:
             'https://github.com/Soundbendor/concert-program-ocr')
 
 with dataset:
-    st.header(':orange[concert program dataset]')
+    st.header('concert program dataset')
     st.text('This metadata is scrapped from the New York Philharmonic which provides publicily\n'
             'available archives of documents.\n'
             'Note that you can sort, resize, and search through the table.')
@@ -36,7 +36,7 @@ with features:
     def convert_df(df):
         return df.to_csv(index=False).encode('utf-8')
     
-    st.header(':orange[datasets]')
+    st.header('datasets')
 
     sel_col, disp_col = st.columns(2)
 
@@ -97,6 +97,6 @@ with features:
     )
 
 with contacts:
-    st.header(':orange[contact information]')
+    st.header('contact information')
     st.text('Author: Patrick Donnelly\n'
             'Contributors: Jonah Broyer, Samson DeVol')
