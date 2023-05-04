@@ -29,8 +29,8 @@ with features:
     st.header('available datasets')
     st.markdown('* **Sample 1:** small (1 KB)')
     st.markdown('* **Sample 2:** medium (17.2 KB)')
-    st.markdown('* **Sample 3** large (314 KB)')
-    st.markdown('* **Sample 4** full (1.2 MB)')
+    st.markdown('* **Sample 3:** large (314 KB)')
+    st.markdown('* **Sample 4:** full (1.2 MB)')
 
     @st.cache_data
     def convert_df(df):
