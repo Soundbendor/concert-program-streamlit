@@ -1,8 +1,12 @@
 import streamlit as st
 import pandas as pd
+from PIL import Image
+
+image = Image.open('./images/OSU_vertical_1C_W.png')
 
 st.set_page_config(
-    page_title="concert program OCR"
+    page_title="concert program OCR",
+    page_icon=image
 )
 
 header = st.container()
