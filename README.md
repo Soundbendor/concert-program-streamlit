@@ -2,6 +2,15 @@
 
 This repository is for the Concert Program OCR Capstone project for Oregon State University and Project Owner Soundbenor Lab.
 
+## Table of Contents
+[Project Description](#project_description)
+[Repository Navigation](#repository_navigation)
+[Design Diagram](#design_diagram)
+[How to Run Code](#how_to_run)
+[Future Work](#future_work)
+[Contrubutors](#contributors) 
+
+<a name="project_description"/>
 ## Project Description
 
 ### Background
@@ -18,12 +27,15 @@ Music concert program data is gathered from existing digital archives using web 
 
 Collecting, cleaning, and filtering this data is a cumbersome yet essential part of training deep machine learning models. Although information on historical music has been digitized, such data is often inaccessible and inconvenient for immediate use in deep learning experiments. This project aims to provide machine learning researchers a robust source of metadata, OCR text, and supplementary information for classical music concerts. Researchers can use the concert program data to develop deep learning approaches seeking to associate descriptive terms with program attributes that deepen our written and oral understanding of how music affects humans  emotionally. 
 
+<a name="design_diagram"/>
+## Design Diagram
 
+<a name="repository_navigation"/>
 ## Repository Navigation
 
 The repository has three main folders.
 
-### streamllit
+### streamlit
 
 This folder contains the code for hosting the Streamlit page with concert program data available for download as a CSV.
 
@@ -35,3 +47,22 @@ This folder contains the code for connecting to the database server and insertin
 
 This folder contains the code for collecting data from the web (i.e. NYPhilharmonic).
 
+<a name="how_to_run"/>
+## How to Run Code
+
+To see how to run each section of code, refer to each of the README.md files within the three main folders listed above. 
+
+To run the project as a whole, follow these steps: 
+1. run a microsoft-sql image using docker [Guide to setup server](https://learn.microsoft.com/en-us/azure/azure-sql/database/free-sql-db-free-account-how-to-deploy?view=azuresql)
+2. collect data from web *See Data Collection Folder* (i.e. NYPhilharmonic) [Guide for Selenium Web Driver](https://www.selenium.dev/documentation/)
+3. insert data to database *See Database Folder* [Guide for pyODBC database queries](https://learn.microsoft.com/en-us/sql/connect/python/pyodbc/step-3-proof-of-concept-connecting-to-sql-using-pyodbc?view=sql-server-ver16)
+4. insert data into Streamlit *See Streamlit Folder* [Streamlit Docs](https://docs.streamlit.io/)
+
+<a name="future_work"/>
+## Future Work
+
+Future work of this project aligns with the objective. Below are the three most pressing next steps. 
+
+* Load more concert data, including program images and NLP data.
+* Automate concert programs loading into database.
+* Host database on the cloud 
