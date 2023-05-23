@@ -11,6 +11,7 @@ This repository is for the Concert Program OCR Capstone project for Oregon State
 [Contributors](#contributors) 
 
 <a name="project_description"/>
+
 ## Project Description
 
 ### Background
