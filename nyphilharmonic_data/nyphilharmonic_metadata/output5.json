@@ -1,0 +1,2802 @@
+{
+    "0": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/18/2014",
+            "num_perfs": "1",
+            "first_soloist": "Denk, Jeremy",
+            "id": "13174"
+        }
+    },
+    "1": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/16/2014",
+            "num_perfs": "2",
+            "first_soloist": "Denk, Jeremy",
+            "id": "12485"
+        }
+    },
+    "2": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "10/11/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 4",
+            "id": "12479"
+        }
+    },
+    "3": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "TWC",
+            "event_name": "PAT",
+            "first_date": "10/9/2014",
+            "num_perfs": "1",
+            "first_soloist": "Allen, Nancy 2",
+            "id": "14580"
+        }
+    },
+    "4": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/9/2014",
+            "num_perfs": "4",
+            "first_soloist": "Batiashvili, Lisa",
+            "id": "12484"
+        }
+    },
+    "5": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/1/2014",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "12483"
+        }
+    },
+    "6": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/23/2014",
+            "num_perfs": "4",
+            "first_soloist": "Kriikku, Kari",
+            "id": "12482"
+        }
+    },
+    "7": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Brock, Timothy",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "9/19/2014",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "12480"
+        }
+    },
+    "8": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "9/17/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua 3",
+            "id": "12481"
+        }
+    },
+    "9": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "9/16/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua 4",
+            "id": "12598"
+        }
+    },
+    "10": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Yu, Long",
+            "orch": "SOA",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SSH",
+            "event_name": "RES",
+            "first_date": "9/12/2014",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Jian 3",
+            "id": "13098"
+        }
+    },
+    "11": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "SOA",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "USC",
+            "event_name": "RESC",
+            "first_date": "9/10/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 3",
+            "id": "13099"
+        }
+    },
+    "12": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "undefined",
+            "event_name": "TP",
+            "first_date": "9/4/2014",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 5",
+            "id": "13867"
+        }
+    },
+    "13": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/25/2014",
+            "num_perfs": "1",
+            "first_soloist": "Yang, Joyce",
+            "id": "12095"
+        }
+    },
+    "14": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Sperling, Ted",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/24/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ebersole, Christine 3",
+            "id": "12094"
+        }
+    },
+    "15": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Tovey, Bramwell 2",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/23/2014",
+            "num_perfs": "1",
+            "first_soloist": "Nuccio, Mark",
+            "id": "12093"
+        }
+    },
+    "16": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/20/2014",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Liang",
+            "id": "12092"
+        }
+    },
+    "17": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/19/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12091"
+        }
+    },
+    "18": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/18/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12090"
+        }
+    },
+    "19": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Staten Island, NY",
+            "first_venue": "CFA",
+            "event_name": "FIC",
+            "first_date": "7/13/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 18",
+            "id": "12597"
+        }
+    },
+    "20": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "PRO",
+            "event_name": "P",
+            "first_date": "7/9/2014",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "12089"
+        }
+    },
+    "21": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Tovey, Bramwell 2",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "S",
+            "first_date": "7/5/2014",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "12588"
+        }
+    },
+    "22": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Tovey, Bramwell 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/4/2014",
+            "num_perfs": "3",
+            "first_soloist": "Nuccio, Mark 2",
+            "id": "12564"
+        }
+    },
+    "23": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/2/2014",
+            "num_perfs": "2",
+            "first_soloist": "Yang, Joyce",
+            "id": "12127"
+        }
+    },
+    "24": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "BOA",
+            "event_name": "I",
+            "first_date": "6/30/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 3",
+            "id": "14014"
+        }
+    },
+    "25": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "F",
+            "first_date": "6/24/2014",
+            "num_perfs": "5",
+            "first_soloist": "Bronfman, Yefim 3",
+            "id": "12084"
+        }
+    },
+    "26": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "F",
+            "first_date": "6/18/2014",
+            "num_perfs": "4",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12083"
+        }
+    },
+    "27": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "F",
+            "first_date": "6/11/2014",
+            "num_perfs": "4",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12082"
+        }
+    },
+    "28": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STR",
+            "event_name": "PAT",
+            "first_date": "6/10/2014",
+            "num_perfs": "1",
+            "first_soloist": "Weilerstein, Alisa 2",
+            "id": "13450"
+        }
+    },
+    "29": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Manahan, George",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DIM",
+            "event_name": "BI",
+            "first_date": "6/7/2014",
+            "num_perfs": "1",
+            "first_soloist": "American Composers Orchestra",
+            "id": "13105"
+        }
+    },
+    "30": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "BI",
+            "first_date": "6/7/2014",
+            "num_perfs": "1",
+            "first_soloist": "Midori",
+            "id": "12595"
+        }
+    },
+    "31": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Pintscher, Matthias",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "BI",
+            "first_date": "6/6/2014",
+            "num_perfs": "1",
+            "first_soloist": "Weilerstein, Alisa",
+            "id": "12029"
+        }
+    },
+    "32": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "BI",
+            "first_date": "6/5/2014",
+            "num_perfs": "1",
+            "first_soloist": "Midori",
+            "id": "12081"
+        }
+    },
+    "33": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "6/4/2014",
+            "num_perfs": "1",
+            "first_soloist": "Rouse, Christopher 6",
+            "id": "13748"
+        }
+    },
+    "34": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "BI",
+            "first_date": "6/4/2014",
+            "num_perfs": "1",
+            "first_soloist": "Formenti, Marino",
+            "id": "13096"
+        }
+    },
+    "35": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "REA",
+            "first_date": "6/3/2014",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12570"
+        }
+    },
+    "36": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SUB",
+            "event_name": "NME",
+            "first_date": "6/3/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 7",
+            "id": "12596"
+        }
+    },
+    "37": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "6/2/2014",
+            "num_perfs": "1",
+            "first_soloist": "Gilbert, Alan 4",
+            "id": "13747"
+        }
+    },
+    "38": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Undercofler, Jenny 3",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "BI",
+            "first_date": "6/1/2014",
+            "num_perfs": "1",
+            "first_soloist": "Face the Music 2",
+            "id": "13104"
+        }
+    },
+    "39": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Heras-Casado, Pablo",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "RST",
+            "event_name": "BI",
+            "first_date": "6/1/2014",
+            "num_perfs": "1",
+            "first_soloist": "Fischer, Abigail 2",
+            "id": "13097"
+        }
+    },
+    "40": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Heras-Casado, Pablo",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "RST",
+            "event_name": "BI",
+            "first_date": "5/31/2014",
+            "num_perfs": "1",
+            "first_soloist": "Orchestra of St. Luke's 5",
+            "id": "13103"
+        }
+    },
+    "41": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Adelson, Michael",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "BI",
+            "first_date": "5/31/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bridge to Nowhere 20",
+            "id": "13093"
+        }
+    },
+    "42": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Ogren, Jayce 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "BI",
+            "first_date": "5/30/2014",
+            "num_perfs": "2",
+            "first_soloist": "Bang on a Can All-Stars 5",
+            "id": "12079"
+        }
+    },
+    "43": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MET",
+            "event_name": "BI",
+            "first_date": "5/29/2014",
+            "num_perfs": "3",
+            "first_soloist": "Snouffer, Lauren 12",
+            "id": "13436"
+        }
+    },
+    "44": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Pintscher, Matthias",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MOM",
+            "event_name": "BI",
+            "first_date": "5/29/2014",
+            "num_perfs": "2",
+            "first_soloist": "Zetlan, Jennifer 2",
+            "id": "12080"
+        }
+    },
+    "45": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Goren, Neal",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "GWL",
+            "event_name": "BI",
+            "first_date": "5/28/2014",
+            "num_perfs": "3",
+            "first_soloist": "Gotham Chamber Opera Orchestra",
+            "id": "13095"
+        }
+    },
+    "46": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "SJD",
+            "first_date": "5/26/2014",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12078"
+        }
+    },
+    "47": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "5/25/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 9",
+            "id": "12458"
+        }
+    },
+    "48": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "5/23/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim 6",
+            "id": "12566"
+        }
+    },
+    "49": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Jurowski, Vladimir",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/21/2014",
+            "num_perfs": "4",
+            "first_soloist": "Benedetti, Nicola",
+            "id": "12077"
+        }
+    },
+    "50": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Smith, Philip",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MEM",
+            "event_name": "S",
+            "first_date": "5/15/2014",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12573"
+        }
+    },
+    "51": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Haitink, Bernard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/15/2014",
+            "num_perfs": "3",
+            "first_soloist": "Fink, Bernarda 3",
+            "id": "12076"
+        }
+    },
+    "52": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Haitink, Bernard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/8/2014",
+            "num_perfs": "3",
+            "first_soloist": "Kavakos, Leonidas",
+            "id": "12075"
+        }
+    },
+    "53": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CH",
+            "event_name": "NS",
+            "first_date": "5/5/2014",
+            "num_perfs": "1",
+            "first_soloist": "Imbrailo , Jacques 3",
+            "id": "12074"
+        }
+    },
+    "54": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "5/4/2014",
+            "num_perfs": "1",
+            "first_soloist": "McDermott, Kerry 9",
+            "id": "14315"
+        }
+    },
+    "55": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "5/1/2014",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "12073"
+        }
+    },
+    "56": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "LNK",
+            "event_name": "PAT",
+            "first_date": "4/29/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 5",
+            "id": "14571"
+        }
+    },
+    "57": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "4/27/2014",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 7",
+            "id": "13437"
+        }
+    },
+    "58": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Davis, Andrew",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "4/26/2014",
+            "num_perfs": "1",
+            "first_soloist": "Hamelin, Marc-Andr\u00e9 4",
+            "id": "12072"
+        }
+    },
+    "59": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Davis, Andrew",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/26/2014",
+            "num_perfs": "1",
+            "first_soloist": "Hamelin, Marc-Andr\u00e9",
+            "id": "12571"
+        }
+    },
+    "60": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "McAdams, Ryan",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "C",
+            "first_date": "4/26/2014",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 11",
+            "id": "14773"
+        }
+    },
+    "61": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Davis, Andrew",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/24/2014",
+            "num_perfs": "2",
+            "first_soloist": "Hamelin, Marc-Andr\u00e9",
+            "id": "12071"
+        }
+    },
+    "62": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "4/22/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto",
+            "id": "12070"
+        }
+    },
+    "63": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "4/13/2014",
+            "num_perfs": "1",
+            "first_soloist": "Lu, Kuan Cheng 7",
+            "id": "12457"
+        }
+    },
+    "64": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "4/12/2014",
+            "num_perfs": "1",
+            "first_soloist": "Lewis, Paul 7",
+            "id": "12069"
+        }
+    },
+    "65": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Dohnanyi, Christoph von",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/10/2014",
+            "num_perfs": "3",
+            "first_soloist": "Lewis, Paul",
+            "id": "12068"
+        }
+    },
+    "66": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "4/8/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 3",
+            "id": "14570"
+        }
+    },
+    "67": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "4/7/2014",
+            "num_perfs": "1",
+            "first_soloist": "Oja, Carol J.",
+            "id": "14462"
+        }
+    },
+    "68": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Heras-Casado, Pablo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/2/2014",
+            "num_perfs": "4",
+            "first_soloist": "Serkin, Peter",
+            "id": "12067"
+        }
+    },
+    "69": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Honeck, Manfred",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/27/2014",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "12065"
+        }
+    },
+    "70": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/25/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kahane, Jeffrey",
+            "id": "12567"
+        }
+    },
+    "71": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "3/23/2014",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 11",
+            "id": "12456"
+        }
+    },
+    "72": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "3/22/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kahane, Jeffrey 5",
+            "id": "12064"
+        }
+    },
+    "73": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/20/2014",
+            "num_perfs": "3",
+            "first_soloist": "Kahane, Jeffrey",
+            "id": "12063"
+        }
+    },
+    "74": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/12/2014",
+            "num_perfs": "4",
+            "first_soloist": "None",
+            "id": "12062"
+        }
+    },
+    "75": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "3/8/2014",
+            "num_perfs": "2",
+            "first_soloist": "Johnson, Jay Armstrong 13",
+            "id": "12563"
+        }
+    },
+    "76": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "3/5/2014",
+            "num_perfs": "3",
+            "first_soloist": "Johnson, Jay Armstrong 13",
+            "id": "12061"
+        }
+    },
+    "77": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Mendoza, Vince",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "2/28/2014",
+            "num_perfs": "2",
+            "first_soloist": "Carpenter, Mary Chapin 14",
+            "id": "12060"
+        }
+    },
+    "78": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Taipei, TAIWAN",
+            "first_venue": "NAT",
+            "event_name": "T",
+            "first_date": "2/19/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12562"
+        }
+    },
+    "79": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Taipei, TAIWAN",
+            "first_venue": "NAT",
+            "event_name": "T",
+            "first_date": "2/18/2014",
+            "num_perfs": "1",
+            "first_soloist": "Batiashvili, Lisa",
+            "id": "12298"
+        }
+    },
+    "80": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Yokohama, JAPAN",
+            "first_venue": "MIN",
+            "event_name": "T",
+            "first_date": "2/15/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto",
+            "id": "12058"
+        }
+    },
+    "81": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "AMB",
+            "event_name": "C",
+            "first_date": "2/14/2014",
+            "num_perfs": "1",
+            "first_soloist": "Langevin, Robert 5",
+            "id": "14442"
+        }
+    },
+    "82": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "2/13/2014",
+            "num_perfs": "1",
+            "first_soloist": "Batiashvili, Lisa",
+            "id": "12057"
+        }
+    },
+    "83": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "2/12/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12056"
+        }
+    },
+    "84": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "2/11/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto 5",
+            "id": "12055"
+        }
+    },
+    "85": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Osaka, JAPAN",
+            "first_venue": "SYM",
+            "event_name": "T",
+            "first_date": "2/10/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto 4",
+            "id": "12054"
+        }
+    },
+    "86": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Nagoya, JAPAN",
+            "first_venue": "AIC",
+            "event_name": "T",
+            "first_date": "2/9/2014",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12053"
+        }
+    },
+    "87": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Seoul, KOREA",
+            "first_venue": "SAC",
+            "event_name": "T",
+            "first_date": "2/7/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto",
+            "id": "12052"
+        }
+    },
+    "88": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Seoul, KOREA",
+            "first_venue": "SAC",
+            "event_name": "T",
+            "first_date": "2/6/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kim , Dasol",
+            "id": "12051"
+        }
+    },
+    "89": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "2/1/2014",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12049"
+        }
+    },
+    "90": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Yu, Long",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "PFB",
+            "first_date": "2/1/2014",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja 4",
+            "id": "12050"
+        }
+    },
+    "91": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/30/2014",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 3",
+            "id": "12556"
+        }
+    },
+    "92": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "1/30/2014",
+            "num_perfs": "1",
+            "first_soloist": "Nuccio, Mark 6",
+            "id": "13449"
+        }
+    },
+    "93": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/29/2014",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 3",
+            "id": "12554"
+        }
+    },
+    "94": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/29/2014",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 3",
+            "id": "12555"
+        }
+    },
+    "95": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/28/2014",
+            "num_perfs": "2",
+            "first_soloist": "Wiprud, Theodore 3",
+            "id": "12048"
+        }
+    },
+    "96": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "1/26/2014",
+            "num_perfs": "1",
+            "first_soloist": "Sun, Na 10",
+            "id": "12455"
+        }
+    },
+    "97": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Boreyko, Andrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/23/2014",
+            "num_perfs": "3",
+            "first_soloist": "Capucon (Capu\u00e7on), Gautier",
+            "id": "12047"
+        }
+    },
+    "98": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Boreyko, Andrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/22/2014",
+            "num_perfs": "1",
+            "first_soloist": "LeClair, Judith P. 2",
+            "id": "12046"
+        }
+    },
+    "99": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "ALI",
+            "event_name": "C",
+            "first_date": "1/19/2014",
+            "num_perfs": "1",
+            "first_soloist": "Dicterow, Glenn 5",
+            "id": "12568"
+        }
+    },
+    "100": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Boreyko, Andrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/16/2014",
+            "num_perfs": "3",
+            "first_soloist": "LeClair, Judith P.",
+            "id": "12045"
+        }
+    },
+    "101": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "1/15/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bartlett, Eric 4",
+            "id": "13448"
+        }
+    },
+    "102": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SUB",
+            "event_name": "NME",
+            "first_date": "1/13/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim 7",
+            "id": "12494"
+        }
+    },
+    "103": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/9/2014",
+            "num_perfs": "4",
+            "first_soloist": "Batiashvili, Lisa",
+            "id": "12044"
+        }
+    },
+    "104": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "1/5/2014",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 8",
+            "id": "12558"
+        }
+    },
+    "105": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Greenvale, NY",
+            "first_venue": "TIL",
+            "event_name": "RO",
+            "first_date": "1/4/2014",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12557"
+        }
+    },
+    "106": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/2/2014",
+            "num_perfs": "3",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12042"
+        }
+    },
+    "107": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NYE",
+            "first_date": "12/31/2013",
+            "num_perfs": "1",
+            "first_soloist": "Igudesman & Joo 4",
+            "id": "12041"
+        }
+    },
+    "108": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Sperling, Ted",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "12/20/2013",
+            "num_perfs": "2",
+            "first_soloist": "Mitchell, Brian Stokes 6",
+            "id": "12040"
+        }
+    },
+    "109": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Manze, Andrew",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/17/2013",
+            "num_perfs": "5",
+            "first_soloist": "Harvey, Joelle [Jo\u00e9lle] 6",
+            "id": "12039"
+        }
+    },
+    "110": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Holiday Brass",
+            "first_date": "12/15/2013",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "12604"
+        }
+    },
+    "111": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Fruhbeck de Burgos, Rafael",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/12/2013",
+            "num_perfs": "3",
+            "first_soloist": "Dicterow, Glenn",
+            "id": "12038"
+        }
+    },
+    "112": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Honeck, Manfred",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "PFB",
+            "first_date": "12/10/2013",
+            "num_perfs": "1",
+            "first_soloist": "Mutter, Anne-Sophie",
+            "id": "12037"
+        }
+    },
+    "113": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "12/7/2013",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 7",
+            "id": "12036"
+        }
+    },
+    "114": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Zinman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/5/2013",
+            "num_perfs": "3",
+            "first_soloist": "Goode, Richard",
+            "id": "12035"
+        }
+    },
+    "115": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DBL",
+            "event_name": "PAT",
+            "first_date": "12/4/2013",
+            "num_perfs": "1",
+            "first_soloist": "Son, Yoobin 2",
+            "id": "14013"
+        }
+    },
+    "116": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "12/1/2013",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 9",
+            "id": "12559"
+        }
+    },
+    "117": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "11/30/2013",
+            "num_perfs": "1",
+            "first_soloist": "Kahane, Jeffrey 6",
+            "id": "12034"
+        }
+    },
+    "118": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/29/2013",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "12033"
+        }
+    },
+    "119": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/26/2013",
+            "num_perfs": "1",
+            "first_soloist": "Myers, Philip 2",
+            "id": "12032"
+        }
+    },
+    "120": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/23/2013",
+            "num_perfs": "1",
+            "first_soloist": "Griffey, Anthony Dean 6",
+            "id": "12514"
+        }
+    },
+    "121": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/21/2013",
+            "num_perfs": "2",
+            "first_soloist": "Myers, Philip 7",
+            "id": "12031"
+        }
+    },
+    "122": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "I",
+            "first_date": "11/18/2013",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 4",
+            "id": "12495"
+        }
+    },
+    "123": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "11/17/2013",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 11",
+            "id": "12454"
+        }
+    },
+    "124": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/14/2013",
+            "num_perfs": "4",
+            "first_soloist": "Wang, Liang 2",
+            "id": "12030"
+        }
+    },
+    "125": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "4WTC",
+            "event_name": "S",
+            "first_date": "11/12/2013",
+            "num_perfs": "1",
+            "first_soloist": "Langevin, Robert 2",
+            "id": "12488"
+        }
+    },
+    "126": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "undefined",
+            "event_name": "PAT",
+            "first_date": "11/11/2013",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua 2",
+            "id": "13341"
+        }
+    },
+    "127": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Labadie, Bernard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/7/2013",
+            "num_perfs": "3",
+            "first_soloist": "Persson, Miah 6",
+            "id": "12028"
+        }
+    },
+    "128": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SUB",
+            "event_name": "NME",
+            "first_date": "11/4/2013",
+            "num_perfs": "1",
+            "first_soloist": "Vickery, Nathan 14",
+            "id": "12476"
+        }
+    },
+    "129": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/2/2013",
+            "num_perfs": "2",
+            "first_soloist": "Josefowicz, Leila",
+            "id": "12493"
+        }
+    },
+    "130": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/30/2013",
+            "num_perfs": "3",
+            "first_soloist": "Josefowicz, Leila",
+            "id": "12027"
+        }
+    },
+    "131": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "TBA",
+            "event_name": "MC",
+            "first_date": "10/29/2013",
+            "num_perfs": "1",
+            "first_soloist": "Brey, Carter 6",
+            "id": "13447"
+        }
+    },
+    "132": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "10/26/2013",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 4",
+            "id": "12026"
+        }
+    },
+    "133": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/24/2013",
+            "num_perfs": "3",
+            "first_soloist": "Brey, Carter 3",
+            "id": "12025"
+        }
+    },
+    "134": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "10/20/2013",
+            "num_perfs": "1",
+            "first_soloist": "Son, Yoobin 11",
+            "id": "12453"
+        }
+    },
+    "135": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/17/2013",
+            "num_perfs": "3",
+            "first_soloist": "Gerstein, Kirill",
+            "id": "12024"
+        }
+    },
+    "136": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "10/12/2013",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 9",
+            "id": "12022"
+        }
+    },
+    "137": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/12/2013",
+            "num_perfs": "2",
+            "first_soloist": "Steinbacher, Arabella",
+            "id": "12023"
+        }
+    },
+    "138": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MOR",
+            "event_name": "I",
+            "first_date": "10/7/2013",
+            "num_perfs": "1",
+            "first_soloist": "Simon, Fiona 4",
+            "id": "12475"
+        }
+    },
+    "139": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "EMP",
+            "event_name": "C",
+            "first_date": "10/7/2013",
+            "num_perfs": "1",
+            "first_soloist": "Jones, Russell 4",
+            "id": "13749"
+        }
+    },
+    "140": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/3/2013",
+            "num_perfs": "5",
+            "first_soloist": "Di Giacomo, Julianna 5",
+            "id": "12021"
+        }
+    },
+    "141": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/26/2013",
+            "num_perfs": "4",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12020"
+        }
+    },
+    "142": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "PFB",
+            "first_date": "9/25/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ma, Yo-Yo 7",
+            "id": "12087"
+        }
+    },
+    "143": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "9/20/2013",
+            "num_perfs": "2",
+            "first_soloist": "Baldwin, Alec 2",
+            "id": "12086"
+        }
+    },
+    "144": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Kitsopoulos, Constantine",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "9/18/2013",
+            "num_perfs": "1",
+            "first_soloist": "Waterston, Sam",
+            "id": "12471"
+        }
+    },
+    "145": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "Kitsopoulos, Constantine",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "9/17/2013",
+            "num_perfs": "1",
+            "first_soloist": "Baldwin, Alec",
+            "id": "12085"
+        }
+    },
+    "146": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Santiago, CHILE",
+            "first_venue": "CAT",
+            "event_name": "TC",
+            "first_date": "9/6/2013",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 3",
+            "id": "12473"
+        }
+    },
+    "147": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Sao Paulo, BRAZIL",
+            "first_venue": "CUL",
+            "event_name": "TC",
+            "first_date": "9/4/2013",
+            "num_perfs": "2",
+            "first_soloist": "Staples, Sheryl 3",
+            "id": "12474"
+        }
+    },
+    "148": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Seoul, KOREA",
+            "first_venue": "MYU",
+            "event_name": "S",
+            "first_date": "9/4/2013",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 14",
+            "id": "13969"
+        }
+    },
+    "149": {
+        "metadata": {
+            "season": "2013-14",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Mexico City, MEXICO",
+            "first_venue": "MRT",
+            "event_name": "TC",
+            "first_date": "9/2/2013",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 3",
+            "id": "12472"
+        }
+    },
+    "150": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/26/2013",
+            "num_perfs": "1",
+            "first_soloist": "Shaham, Gil 2",
+            "id": "11966"
+        }
+    },
+    "151": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Tovey, Bramwell 2",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/25/2013",
+            "num_perfs": "1",
+            "first_soloist": "Alessi, Joseph",
+            "id": "11965"
+        }
+    },
+    "152": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Sperling, Ted",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/24/2013",
+            "num_perfs": "1",
+            "first_soloist": "Wolfe, Betsy 3",
+            "id": "11964"
+        }
+    },
+    "153": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/21/2013",
+            "num_perfs": "1",
+            "first_soloist": "Thibaudet, Jean-Yves 2",
+            "id": "11963"
+        }
+    },
+    "154": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Fruhbeck de Burgos, Rafael",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/20/2013",
+            "num_perfs": "1",
+            "first_soloist": "Hadelich, Augustin",
+            "id": "11962"
+        }
+    },
+    "155": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/19/2013",
+            "num_perfs": "1",
+            "first_soloist": "Brey, Carter",
+            "id": "11961"
+        }
+    },
+    "156": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Bronx, NY",
+            "first_venue": "VCP",
+            "event_name": "P",
+            "first_date": "7/16/2013",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12436"
+        }
+    },
+    "157": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CPG",
+            "event_name": "P",
+            "first_date": "7/15/2013",
+            "num_perfs": "1",
+            "first_soloist": "Brey, Carter",
+            "id": "12357"
+        }
+    },
+    "158": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Staten Island, NY",
+            "first_venue": "CFA",
+            "event_name": "FIC",
+            "first_date": "7/14/2013",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "13092"
+        }
+    },
+    "159": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CPG",
+            "event_name": "P",
+            "first_date": "7/13/2013",
+            "num_perfs": "1",
+            "first_soloist": "Carey, Mariah 2",
+            "id": "12270"
+        }
+    },
+    "160": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "PRO",
+            "event_name": "P",
+            "first_date": "7/10/2013",
+            "num_perfs": "2",
+            "first_soloist": "Brey, Carter",
+            "id": "11959"
+        }
+    },
+    "161": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/5/2013",
+            "num_perfs": "3",
+            "first_soloist": "Manhattan School of Music Chamber Choir",
+            "id": "11957"
+        }
+    },
+    "162": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Tovey, Bramwell 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "7/4/2013",
+            "num_perfs": "1",
+            "first_soloist": "United States Coast Guard Band",
+            "id": "12384"
+        }
+    },
+    "163": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Tovey, Bramwell 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/3/2013",
+            "num_perfs": "1",
+            "first_soloist": "United States Coast Guard Band",
+            "id": "11931"
+        }
+    },
+    "164": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/27/2013",
+            "num_perfs": "3",
+            "first_soloist": "Fitch, Douglas 22",
+            "id": "11952"
+        }
+    },
+    "165": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "RAC",
+            "event_name": "PAT",
+            "first_date": "6/25/2013",
+            "num_perfs": "1",
+            "first_soloist": "Kudo, Sumire 2",
+            "id": "13667"
+        }
+    },
+    "166": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/20/2013",
+            "num_perfs": "3",
+            "first_soloist": "Ax, Emanuel",
+            "id": "11951"
+        }
+    },
+    "167": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STR",
+            "event_name": "PAT",
+            "first_date": "6/17/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "13666"
+        }
+    },
+    "168": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "6/16/2013",
+            "num_perfs": "1",
+            "first_soloist": "Lu, Kuan Cheng 10",
+            "id": "11944"
+        }
+    },
+    "169": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Bringuier, Lionel",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/13/2013",
+            "num_perfs": "4",
+            "first_soloist": "Kavakos, Leonidas",
+            "id": "11950"
+        }
+    },
+    "170": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "HHH",
+            "event_name": "PAT",
+            "first_date": "6/12/2013",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 3",
+            "id": "13668"
+        }
+    },
+    "171": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "6/8/2013",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 5",
+            "id": "11949"
+        }
+    },
+    "172": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Greenvale, NY",
+            "first_venue": "TIL",
+            "event_name": "RO",
+            "first_date": "6/7/2013",
+            "num_perfs": "1",
+            "first_soloist": "Batiashvili, Lisa",
+            "id": "11969"
+        }
+    },
+    "173": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/6/2013",
+            "num_perfs": "3",
+            "first_soloist": "Batiashvili, Lisa 7",
+            "id": "11948"
+        }
+    },
+    "174": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MFC",
+            "event_name": "INS",
+            "first_date": "6/5/2013",
+            "num_perfs": "1",
+            "first_soloist": "Sachs, Harvey 2",
+            "id": "13745"
+        }
+    },
+    "175": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Sperling, Ted",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "S",
+            "first_date": "6/4/2013",
+            "num_perfs": "1",
+            "first_soloist": "Szot, Paulo 7",
+            "id": "11970"
+        }
+    },
+    "176": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/1/2013",
+            "num_perfs": "1",
+            "first_soloist": "Nuccio, Mark 2",
+            "id": "12278"
+        }
+    },
+    "177": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/31/2013",
+            "num_perfs": "1",
+            "first_soloist": "Nuccio, Mark 2",
+            "id": "11947"
+        }
+    },
+    "178": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "RHC",
+            "first_date": "5/30/2013",
+            "num_perfs": "1",
+            "first_soloist": "Marsalis, Wynton 2",
+            "id": "11946"
+        }
+    },
+    "179": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "SJD",
+            "first_date": "5/27/2013",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "11945"
+        }
+    },
+    "180": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "5/25/2013",
+            "num_perfs": "1",
+            "first_soloist": "Rissman, Paul 3",
+            "id": "11902"
+        }
+    },
+    "181": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "5/24/2013",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 7",
+            "id": "12120"
+        }
+    },
+    "182": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "5/24/2013",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 7",
+            "id": "12121"
+        }
+    },
+    "183": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "HIT",
+            "event_name": "PAT",
+            "first_date": "5/23/2013",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 4",
+            "id": "12513"
+        }
+    },
+    "184": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "5/23/2013",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 7",
+            "id": "11943"
+        }
+    },
+    "185": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "5/23/2013",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 7",
+            "id": "12119"
+        }
+    },
+    "186": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vienna, AUSTRIA",
+            "first_venue": "KON",
+            "event_name": "T",
+            "first_date": "5/17/2013",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "11956"
+        }
+    },
+    "187": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vienna, AUSTRIA",
+            "first_venue": "KON",
+            "event_name": "T",
+            "first_date": "5/16/2013",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua",
+            "id": "11993"
+        }
+    },
+    "188": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vienna, AUSTRIA",
+            "first_venue": "KON",
+            "event_name": "T",
+            "first_date": "5/15/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "12226"
+        }
+    },
+    "189": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Dresden, GERMANY",
+            "first_venue": "TVW",
+            "event_name": "T",
+            "first_date": "5/14/2013",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua 8",
+            "id": "11955"
+        }
+    },
+    "190": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Dresden, GERMANY",
+            "first_venue": "SEM",
+            "event_name": "T",
+            "first_date": "5/13/2013",
+            "num_perfs": "1",
+            "first_soloist": "Vogler, Jan",
+            "id": "11991"
+        }
+    },
+    "191": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Berlin, GERMANY",
+            "first_venue": "AMB",
+            "event_name": "TC",
+            "first_date": "5/12/2013",
+            "num_perfs": "1",
+            "first_soloist": "Langevin, Robert 4",
+            "id": "12383"
+        }
+    },
+    "192": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Berlin, GERMANY",
+            "first_venue": "KON",
+            "event_name": "T",
+            "first_date": "5/11/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "11992"
+        }
+    },
+    "193": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Dortmund, GERMANY",
+            "first_venue": "KON",
+            "event_name": "T",
+            "first_date": "5/9/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "11990"
+        }
+    },
+    "194": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Essen, GERMANY",
+            "first_venue": "PHI",
+            "event_name": "T",
+            "first_date": "5/8/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "12128"
+        }
+    },
+    "195": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Munich, GERMANY",
+            "first_venue": "GAS",
+            "event_name": "T",
+            "first_date": "5/7/2013",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua",
+            "id": "13333"
+        }
+    },
+    "196": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Zurich, SWITZERLAND",
+            "first_venue": "TON",
+            "event_name": "T",
+            "first_date": "5/6/2013",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua",
+            "id": "13332"
+        }
+    },
+    "197": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Istanbul, TURKEY",
+            "first_venue": "HAL",
+            "event_name": "T",
+            "first_date": "5/4/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "11900"
+        }
+    },
+    "198": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Istanbul, TURKEY",
+            "first_venue": "HAL",
+            "event_name": "T",
+            "first_date": "5/3/2013",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua",
+            "id": "11953"
+        }
+    },
+    "199": {
+        "metadata": {
+            "season": "2012-13",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Izmir, TURKEY",
+            "first_venue": "SAY",
+            "event_name": "T",
+            "first_date": "5/2/2013",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "11954"
+        }
+    }
+}

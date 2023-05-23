@@ -1,0 +1,2802 @@
+{
+    "0": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/6/2016",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "13998"
+        }
+    },
+    "1": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/5/2016",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "13997"
+        }
+    },
+    "2": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/4/2016",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "13996"
+        }
+    },
+    "3": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/3/2016",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "13622"
+        }
+    },
+    "4": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "RAC",
+            "event_name": "PAT",
+            "first_date": "2/2/2016",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 5",
+            "id": "14032"
+        }
+    },
+    "5": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "NSD",
+            "event_name": "NME",
+            "first_date": "2/1/2016",
+            "num_perfs": "1",
+            "first_soloist": "Salonen, Esa-Pekka 16",
+            "id": "13623"
+        }
+    },
+    "6": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Mena, Juanjo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/28/2016",
+            "num_perfs": "3",
+            "first_soloist": "Ehnes, James",
+            "id": "13986"
+        }
+    },
+    "7": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Mena, Juanjo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/27/2016",
+            "num_perfs": "2",
+            "first_soloist": "Ehnes, James",
+            "id": "13621"
+        }
+    },
+    "8": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SCHA",
+            "event_name": "PAT",
+            "first_date": "1/26/2016",
+            "num_perfs": "1",
+            "first_soloist": "McGill, Anthony 2",
+            "id": "14031"
+        }
+    },
+    "9": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "BAI",
+            "event_name": "Off the Grid",
+            "first_date": "1/26/2016",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 6",
+            "id": "13619"
+        }
+    },
+    "10": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/22/2016",
+            "num_perfs": "1",
+            "first_soloist": "Hiltunen, Tuomas 3",
+            "id": "13983"
+        }
+    },
+    "11": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/22/2016",
+            "num_perfs": "1",
+            "first_soloist": "Hiltunen, Tuomas 3",
+            "id": "13984"
+        }
+    },
+    "12": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/21/2016",
+            "num_perfs": "1",
+            "first_soloist": "Hiltunen, Tuomas 3",
+            "id": "13982"
+        }
+    },
+    "13": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/21/2016",
+            "num_perfs": "1",
+            "first_soloist": "Hiltunen, Tuomas 3",
+            "id": "13981"
+        }
+    },
+    "14": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "1/21/2016",
+            "num_perfs": "1",
+            "first_soloist": "Young, Rebecca 3",
+            "id": "14761"
+        }
+    },
+    "15": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/20/2016",
+            "num_perfs": "1",
+            "first_soloist": "Hiltunen, Tuomas 3",
+            "id": "13618"
+        }
+    },
+    "16": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/20/2016",
+            "num_perfs": "1",
+            "first_soloist": "Hiltunen, Tuomas 3",
+            "id": "13934"
+        }
+    },
+    "17": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "WES",
+            "event_name": "PAT",
+            "first_date": "1/19/2016",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 3",
+            "id": "14030"
+        }
+    },
+    "18": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "1/17/2016",
+            "num_perfs": "1",
+            "first_soloist": "Oh, Joo Young 13",
+            "id": "13850"
+        }
+    },
+    "19": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/14/2016",
+            "num_perfs": "3",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "13617"
+        }
+    },
+    "20": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MOR",
+            "event_name": "PAT",
+            "first_date": "1/10/2016",
+            "num_perfs": "1",
+            "first_soloist": "Teplitsky, Mark 15",
+            "id": "13899"
+        }
+    },
+    "21": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "1/9/2016",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank 4",
+            "id": "13616"
+        }
+    },
+    "22": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/7/2016",
+            "num_perfs": "4",
+            "first_soloist": "Melton, Heidi 2",
+            "id": "13615"
+        }
+    },
+    "23": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NYE",
+            "first_date": "12/31/2015",
+            "num_perfs": "1",
+            "first_soloist": "Graham, Susan 4",
+            "id": "13614"
+        }
+    },
+    "24": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/30/2015",
+            "num_perfs": "2",
+            "first_soloist": "Bell, Joshua",
+            "id": "13613"
+        }
+    },
+    "25": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/29/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua 2",
+            "id": "13967"
+        }
+    },
+    "26": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "12/18/2015",
+            "num_perfs": "2",
+            "first_soloist": "Owens, Eric 2",
+            "id": "13612"
+        }
+    },
+    "27": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Glover, Jane",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/15/2015",
+            "num_perfs": "5",
+            "first_soloist": "Stober, Heidi 10",
+            "id": "13407"
+        }
+    },
+    "28": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Holiday Brass",
+            "first_date": "12/13/2015",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "14029"
+        }
+    },
+    "29": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "12/12/2015",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 2",
+            "id": "13264"
+        }
+    },
+    "30": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gaffigan, James",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/10/2015",
+            "num_perfs": "3",
+            "first_soloist": "Kahane, Jeffrey",
+            "id": "13611"
+        }
+    },
+    "31": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAH",
+            "event_name": "PAT",
+            "first_date": "12/9/2015",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 3",
+            "id": "14028"
+        }
+    },
+    "32": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "12/6/2015",
+            "num_perfs": "1",
+            "first_soloist": "Son, Yoobin 14",
+            "id": "13848"
+        }
+    },
+    "33": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "12/3/2015",
+            "num_perfs": "1",
+            "first_soloist": "Aguilera, Christina 13",
+            "id": "13610"
+        }
+    },
+    "34": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Morlot, Ludovic",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/28/2015",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13968"
+        }
+    },
+    "35": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Morlot, Ludovic",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "11/28/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bensdorf, Ethan 5",
+            "id": "13609"
+        }
+    },
+    "36": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Morlot, Ludovic",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/24/2015",
+            "num_perfs": "2",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13608"
+        }
+    },
+    "37": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "11/22/2015",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 5",
+            "id": "13855"
+        }
+    },
+    "38": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Jarvi [J\u00e4rvi], Neeme",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/19/2015",
+            "num_perfs": "3",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13606"
+        }
+    },
+    "39": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Macelaru, Cristian",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/17/2015",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13966"
+        }
+    },
+    "40": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Milarsky, Jeffrey",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "NSD",
+            "event_name": "NME",
+            "first_date": "11/16/2015",
+            "num_perfs": "1",
+            "first_soloist": "Son, Yoobin 12",
+            "id": "13854"
+        }
+    },
+    "41": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Queens, NY",
+            "first_venue": "JAM",
+            "event_name": "VY",
+            "first_date": "11/14/2015",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 9",
+            "id": "13995"
+        }
+    },
+    "42": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Macelaru, Cristian",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/13/2015",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13956"
+        }
+    },
+    "43": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Macelaru, Cristian",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/12/2015",
+            "num_perfs": "2",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13947"
+        }
+    },
+    "44": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Macelaru, Cristian",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/11/2015",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "12531"
+        }
+    },
+    "45": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "11/8/2015",
+            "num_perfs": "3",
+            "first_soloist": "Kaufman, Mindy 9",
+            "id": "13857"
+        }
+    },
+    "46": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Ridder, Andre [Andr\u00e9] de",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MET",
+            "event_name": "NME",
+            "first_date": "11/6/2015",
+            "num_perfs": "2",
+            "first_soloist": "Gomez, Esteli",
+            "id": "13660"
+        }
+    },
+    "47": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/4/2015",
+            "num_perfs": "4",
+            "first_soloist": "Myers, Philip 12",
+            "id": "13604"
+        }
+    },
+    "48": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "TWC",
+            "event_name": "C",
+            "first_date": "11/4/2015",
+            "num_perfs": "1",
+            "first_soloist": "LeClair, Judith P. 2",
+            "id": "14170"
+        }
+    },
+    "49": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "10/31/2015",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Liang 8",
+            "id": "13603"
+        }
+    },
+    "50": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/29/2015",
+            "num_perfs": "3",
+            "first_soloist": "Barnatan, Inon",
+            "id": "13602"
+        }
+    },
+    "51": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "10/25/2015",
+            "num_perfs": "1",
+            "first_soloist": "Duncan, Tyler 20",
+            "id": "13846"
+        }
+    },
+    "52": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/21/2015",
+            "num_perfs": "4",
+            "first_soloist": "Batiashvili, Lisa 2",
+            "id": "13142"
+        }
+    },
+    "53": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "10/19/2015",
+            "num_perfs": "1",
+            "first_soloist": "Simon, Fiona 4",
+            "id": "14027"
+        }
+    },
+    "54": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "10/16/2015",
+            "num_perfs": "1",
+            "first_soloist": "Pollini, Maurizio",
+            "id": "13659"
+        }
+    },
+    "55": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Wilkins, Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/15/2015",
+            "num_perfs": "1",
+            "first_soloist": "Owens, Eric 8",
+            "id": "12560"
+        }
+    },
+    "56": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Wilkins, Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/14/2015",
+            "num_perfs": "1",
+            "first_soloist": "Owens, Eric 6",
+            "id": "13658"
+        }
+    },
+    "57": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "10/13/2015",
+            "num_perfs": "1",
+            "first_soloist": "Owens, Eric 2",
+            "id": "14026"
+        }
+    },
+    "58": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "T",
+            "first_date": "10/11/2015",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "13146"
+        }
+    },
+    "59": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "T",
+            "first_date": "10/10/2015",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank",
+            "id": "13145"
+        }
+    },
+    "60": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "T",
+            "first_date": "10/9/2015",
+            "num_perfs": "1",
+            "first_soloist": "Barnatan, Inon",
+            "id": "13143"
+        }
+    },
+    "61": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "RAC",
+            "event_name": "RESC",
+            "first_date": "10/8/2015",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank 8",
+            "id": "14763"
+        }
+    },
+    "62": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CH",
+            "event_name": "RO",
+            "first_date": "10/7/2015",
+            "num_perfs": "1",
+            "first_soloist": "Kissin, Evgeny",
+            "id": "13106"
+        }
+    },
+    "63": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Greenvale, NY",
+            "first_venue": "TIL",
+            "event_name": "RO",
+            "first_date": "10/2/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "13140"
+        }
+    },
+    "64": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/1/2015",
+            "num_perfs": "2",
+            "first_soloist": "Cooke, Sasha 2",
+            "id": "13136"
+        }
+    },
+    "65": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/30/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "13601"
+        }
+    },
+    "66": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/25/2015",
+            "num_perfs": "2",
+            "first_soloist": "Huang, Frank",
+            "id": "13135"
+        }
+    },
+    "67": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/24/2015",
+            "num_perfs": "1",
+            "first_soloist": "Lang, Lang",
+            "id": "13134"
+        }
+    },
+    "68": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Freer, Justin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/21/2015",
+            "num_perfs": "1",
+            "first_soloist": "Baldwin, Alec",
+            "id": "12059"
+        }
+    },
+    "69": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Freer, Justin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/19/2015",
+            "num_perfs": "1",
+            "first_soloist": "Baldwin, Alec 2",
+            "id": "13133"
+        }
+    },
+    "70": {
+        "metadata": {
+            "season": "2015-16",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/18/2015",
+            "num_perfs": "1",
+            "first_soloist": "Baldwin, Alec 2",
+            "id": "13132"
+        }
+    },
+    "71": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Santa Barbara, CA",
+            "first_venue": "SBB",
+            "event_name": "T",
+            "first_date": "8/3/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bullock, Julia 2",
+            "id": "12582"
+        }
+    },
+    "72": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/31/2015",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 2",
+            "id": "12580"
+        }
+    },
+    "73": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/30/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bullock, Julia 2",
+            "id": "12579"
+        }
+    },
+    "74": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/29/2015",
+            "num_perfs": "1",
+            "first_soloist": "Midori",
+            "id": "12578"
+        }
+    },
+    "75": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Vail, CO",
+            "first_venue": "DP",
+            "event_name": "TC",
+            "first_date": "7/28/2015",
+            "num_perfs": "1",
+            "first_soloist": "McDermott, Kerry 6",
+            "id": "13980"
+        }
+    },
+    "76": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Vail, CO",
+            "first_venue": "DVR",
+            "event_name": "TC",
+            "first_date": "7/27/2015",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Liang 4",
+            "id": "13979"
+        }
+    },
+    "77": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/26/2015",
+            "num_perfs": "1",
+            "first_soloist": "McDermott, Anne-Marie",
+            "id": "12577"
+        }
+    },
+    "78": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/25/2015",
+            "num_perfs": "1",
+            "first_soloist": "Weilerstein, Alisa",
+            "id": "12576"
+        }
+    },
+    "79": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/24/2015",
+            "num_perfs": "1",
+            "first_soloist": "Parker, Jon Kimura",
+            "id": "12575"
+        }
+    },
+    "80": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/10/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "12587"
+        }
+    },
+    "81": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "TY",
+            "first_date": "7/9/2015",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12586"
+        }
+    },
+    "82": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SPG",
+            "event_name": "T",
+            "first_date": "7/6/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua",
+            "id": "12585"
+        }
+    },
+    "83": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/5/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "12584"
+        }
+    },
+    "84": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/4/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua",
+            "id": "12583"
+        }
+    },
+    "85": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Staten Island, NY",
+            "first_venue": "SNU",
+            "event_name": "FIC",
+            "first_date": "6/24/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 10",
+            "id": "13869"
+        }
+    },
+    "86": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Queens, NY",
+            "first_venue": "CUN",
+            "event_name": "P",
+            "first_date": "6/22/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bullock, Julia 2",
+            "id": "13731"
+        }
+    },
+    "87": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CPG",
+            "event_name": "P",
+            "first_date": "6/18/2015",
+            "num_perfs": "2",
+            "first_soloist": "Capucon (Capu\u00e7on), Renaud",
+            "id": "12574"
+        }
+    },
+    "88": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CPG",
+            "event_name": "P",
+            "first_date": "6/17/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua",
+            "id": "13661"
+        }
+    },
+    "89": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "UPP",
+            "event_name": "PAT",
+            "first_date": "6/16/2015",
+            "num_perfs": "1",
+            "first_soloist": "Barnatan, Inon 7",
+            "id": "13994"
+        }
+    },
+    "90": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/10/2015",
+            "num_perfs": "4",
+            "first_soloist": "Bellescize, Come [C\u00f4me] de 15",
+            "id": "12526"
+        }
+    },
+    "91": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "6/7/2015",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 14",
+            "id": "12594"
+        }
+    },
+    "92": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Milarsky, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MET",
+            "event_name": "NME",
+            "first_date": "6/5/2015",
+            "num_perfs": "1",
+            "first_soloist": "Gosling, Stephen",
+            "id": "12525"
+        }
+    },
+    "93": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/3/2015",
+            "num_perfs": "4",
+            "first_soloist": "Kahane, Jeffrey",
+            "id": "12524"
+        }
+    },
+    "94": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STR",
+            "event_name": "PAT",
+            "first_date": "6/2/2015",
+            "num_perfs": "1",
+            "first_soloist": "Kahane, Jeffrey 3",
+            "id": "12561"
+        }
+    },
+    "95": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "6/1/2015",
+            "num_perfs": "1",
+            "first_soloist": "Gilbert, Alan 3",
+            "id": "14063"
+        }
+    },
+    "96": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Honeck, Manfred",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/28/2015",
+            "num_perfs": "3",
+            "first_soloist": "Hadelich, Augustin",
+            "id": "12523"
+        }
+    },
+    "97": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "SJD",
+            "first_date": "5/25/2015",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "12537"
+        }
+    },
+    "98": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Malkki [M\u00e4lkki], Susanna",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "5/23/2015",
+            "num_perfs": "1",
+            "first_soloist": "Gerstein, Kirill 6",
+            "id": "12522"
+        }
+    },
+    "99": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "C",
+            "first_date": "5/23/2015",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 12",
+            "id": "14770"
+        }
+    },
+    "100": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Malkki [M\u00e4lkki], Susanna",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/21/2015",
+            "num_perfs": "3",
+            "first_soloist": "Gerstein, Kirill",
+            "id": "12521"
+        }
+    },
+    "101": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "NS",
+            "first_date": "5/20/2015",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14764"
+        }
+    },
+    "102": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "5/19/2015",
+            "num_perfs": "1",
+            "first_soloist": "Torre, Joe",
+            "id": "12538"
+        }
+    },
+    "103": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Daugherty, George",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "5/14/2015",
+            "num_perfs": "4",
+            "first_soloist": "None",
+            "id": "12536"
+        }
+    },
+    "104": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SUB",
+            "event_name": "NME",
+            "first_date": "5/11/2015",
+            "num_perfs": "1",
+            "first_soloist": "Montalti, Vittorio 15",
+            "id": "12606"
+        }
+    },
+    "105": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "5/9/2015",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 6",
+            "id": "12534"
+        }
+    },
+    "106": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/8/2015",
+            "num_perfs": "2",
+            "first_soloist": "Otter, Anne Sofie von 2",
+            "id": "12096"
+        }
+    },
+    "107": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/6/2015",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric",
+            "id": "12553"
+        }
+    },
+    "108": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Cologne, GERMANY",
+            "first_venue": "KPH",
+            "event_name": "T",
+            "first_date": "5/1/2015",
+            "num_perfs": "1",
+            "first_soloist": "Otter, Anne Sofie von 2",
+            "id": "12551"
+        }
+    },
+    "109": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Cologne, GERMANY",
+            "first_venue": "KPH",
+            "event_name": "T",
+            "first_date": "4/30/2015",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric",
+            "id": "12550"
+        }
+    },
+    "110": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Cologne, GERMANY",
+            "first_venue": "WAL",
+            "event_name": "TC",
+            "first_date": "4/29/2015",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 5",
+            "id": "13849"
+        }
+    },
+    "111": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Frankfurt, GERMANY",
+            "first_venue": "ALT",
+            "event_name": "T",
+            "first_date": "4/28/2015",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric",
+            "id": "12549"
+        }
+    },
+    "112": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Paris, FRANCE",
+            "first_venue": "PHI",
+            "event_name": "T",
+            "first_date": "4/26/2015",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric",
+            "id": "12547"
+        }
+    },
+    "113": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Paris, FRANCE",
+            "first_venue": "PHI",
+            "event_name": "T",
+            "first_date": "4/25/2015",
+            "num_perfs": "1",
+            "first_soloist": "DiDonato, Joyce",
+            "id": "12546"
+        }
+    },
+    "114": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Paris, FRANCE",
+            "first_venue": "RUS",
+            "event_name": "TC",
+            "first_date": "4/24/2015",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 5",
+            "id": "13847"
+        }
+    },
+    "115": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Luxembourg, LUXEMBOURG",
+            "first_venue": "PJC",
+            "event_name": "T",
+            "first_date": "4/23/2015",
+            "num_perfs": "1",
+            "first_soloist": "DiDonato, Joyce",
+            "id": "12545"
+        }
+    },
+    "116": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Amsterdam, NETHERLANDS",
+            "first_venue": "CON",
+            "event_name": "T",
+            "first_date": "4/22/2015",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric",
+            "id": "12544"
+        }
+    },
+    "117": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Amsterdam, NETHERLANDS",
+            "first_venue": "CON",
+            "event_name": "T",
+            "first_date": "4/21/2015",
+            "num_perfs": "1",
+            "first_soloist": "DiDonato, Joyce",
+            "id": "12543"
+        }
+    },
+    "118": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "London, ENGLAND",
+            "first_venue": "BAR",
+            "event_name": "TY",
+            "first_date": "4/19/2015",
+            "num_perfs": "1",
+            "first_soloist": "Giants are Small 2",
+            "id": "12541"
+        }
+    },
+    "119": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "London, ENGLAND",
+            "first_venue": "BAR",
+            "event_name": "T",
+            "first_date": "4/19/2015",
+            "num_perfs": "1",
+            "first_soloist": "Giants are Small 2",
+            "id": "12542"
+        }
+    },
+    "120": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "London, ENGLAND",
+            "first_venue": "MIL",
+            "event_name": "NME",
+            "first_date": "4/18/2015",
+            "num_perfs": "1",
+            "first_soloist": "Rodriguez, Alcides 14",
+            "id": "13147"
+        }
+    },
+    "121": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "London, ENGLAND",
+            "first_venue": "BAR",
+            "event_name": "T",
+            "first_date": "4/17/2015",
+            "num_perfs": "1",
+            "first_soloist": "DiDonato, Joyce",
+            "id": "12540"
+        }
+    },
+    "122": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Dublin, IRELAND",
+            "first_venue": "NAT",
+            "event_name": "T",
+            "first_date": "4/16/2015",
+            "num_perfs": "1",
+            "first_soloist": "DiDonato, Joyce",
+            "id": "12539"
+        }
+    },
+    "123": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/8/2015",
+            "num_perfs": "4",
+            "first_soloist": "Batiashvili, Lisa 2",
+            "id": "12520"
+        }
+    },
+    "124": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "ALI",
+            "event_name": "C",
+            "first_date": "3/30/2015",
+            "num_perfs": "1",
+            "first_soloist": "Batiashvili, Lisa 2",
+            "id": "13865"
+        }
+    },
+    "125": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Greenvale, NY",
+            "first_venue": "HIL",
+            "event_name": "VY",
+            "first_date": "3/29/2015",
+            "num_perfs": "1",
+            "first_soloist": "Deane, Richard 7",
+            "id": "14316"
+        }
+    },
+    "126": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/26/2015",
+            "num_perfs": "3",
+            "first_soloist": "Josefowicz, Leila",
+            "id": "12491"
+        }
+    },
+    "127": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "3/23/2015",
+            "num_perfs": "1",
+            "first_soloist": "Adams, John 4",
+            "id": "14062"
+        }
+    },
+    "128": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "3/22/2015",
+            "num_perfs": "3",
+            "first_soloist": "Deane, Richard 7",
+            "id": "13866"
+        }
+    },
+    "129": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Greenvale, NY",
+            "first_venue": "TIL",
+            "event_name": "RO",
+            "first_date": "3/21/2015",
+            "num_perfs": "1",
+            "first_soloist": "Barnatan, Inon",
+            "id": "13580"
+        }
+    },
+    "130": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/19/2015",
+            "num_perfs": "3",
+            "first_soloist": "Barnatan, Inon",
+            "id": "12489"
+        }
+    },
+    "131": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "3/16/2015",
+            "num_perfs": "1",
+            "first_soloist": "Kwon, Soohyun 4",
+            "id": "13993"
+        }
+    },
+    "132": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "3/15/2015",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 14",
+            "id": "12593"
+        }
+    },
+    "133": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Ades [Ad\u00e8s], Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/12/2015",
+            "num_perfs": "3",
+            "first_soloist": "Stotijn, Christianne 2",
+            "id": "12519"
+        }
+    },
+    "134": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "TAK",
+            "event_name": "PAT",
+            "first_date": "3/10/2015",
+            "num_perfs": "1",
+            "first_soloist": "Young, Rebecca 3",
+            "id": "13992"
+        }
+    },
+    "135": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MET",
+            "event_name": "NME",
+            "first_date": "3/7/2015",
+            "num_perfs": "1",
+            "first_soloist": "Bartlett, Eric",
+            "id": "12518"
+        }
+    },
+    "136": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "3/6/2015",
+            "num_perfs": "1",
+            "first_soloist": "Price, Christine 8",
+            "id": "13769"
+        }
+    },
+    "137": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "3/6/2015",
+            "num_perfs": "1",
+            "first_soloist": "Price, Christine 8",
+            "id": "13770"
+        }
+    },
+    "138": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "3/5/2015",
+            "num_perfs": "1",
+            "first_soloist": "Price, Christine 8",
+            "id": "13768"
+        }
+    },
+    "139": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "3/5/2015",
+            "num_perfs": "1",
+            "first_soloist": "Price, Christine 8",
+            "id": "13767"
+        }
+    },
+    "140": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "3/4/2015",
+            "num_perfs": "2",
+            "first_soloist": "Price, Christine 8",
+            "id": "12533"
+        }
+    },
+    "141": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Oramo, Sakari",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/28/2015",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "13786"
+        }
+    },
+    "142": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Oramo, Sakari",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/27/2015",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "12517"
+        }
+    },
+    "143": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Oramo, Sakari",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/26/2015",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "13785"
+        }
+    },
+    "144": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Yu, Long",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "PFB",
+            "first_date": "2/24/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ma, Yo-Yo 4",
+            "id": "12516"
+        }
+    },
+    "145": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "2/21/2015",
+            "num_perfs": "1",
+            "first_soloist": "Silk Road Ensemble 5",
+            "id": "12529"
+        }
+    },
+    "146": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/19/2015",
+            "num_perfs": "3",
+            "first_soloist": "Silk Road Ensemble with Yo-Yo Ma",
+            "id": "12515"
+        }
+    },
+    "147": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "JON",
+            "event_name": "PAT",
+            "first_date": "2/15/2015",
+            "num_perfs": "1",
+            "first_soloist": "T\u00e9treault, St\u00e9phane 7",
+            "id": "13991"
+        }
+    },
+    "148": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "2/15/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 11",
+            "id": "12592"
+        }
+    },
+    "149": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Sperling, Ted",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "2/14/2015",
+            "num_perfs": "1",
+            "first_soloist": "Osnes, Laura 3",
+            "id": "13605"
+        }
+    },
+    "150": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Deneve [Den\u00e8ve], Stephane [St\u00e9phane]",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/11/2015",
+            "num_perfs": "3",
+            "first_soloist": "Thibaudet, Jean-Yves",
+            "id": "12512"
+        }
+    },
+    "151": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Scaglione, Case",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SUB",
+            "event_name": "NME",
+            "first_date": "2/9/2015",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 17",
+            "id": "12607"
+        }
+    },
+    "152": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "2/8/2015",
+            "num_perfs": "3",
+            "first_soloist": "Martinez [Mart\u00ednez] Forteza, Pascual",
+            "id": "13868"
+        }
+    },
+    "153": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Zinman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "2/7/2015",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 5",
+            "id": "12530"
+        }
+    },
+    "154": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Zinman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/5/2015",
+            "num_perfs": "3",
+            "first_soloist": "Batiashvili, Lisa",
+            "id": "12511"
+        }
+    },
+    "155": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "2/3/2015",
+            "num_perfs": "1",
+            "first_soloist": "Batiashvili, Lisa 2",
+            "id": "14061"
+        }
+    },
+    "156": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "RAC",
+            "event_name": "PAT",
+            "first_date": "2/3/2015",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 3",
+            "id": "13990"
+        }
+    },
+    "157": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/31/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "13750"
+        }
+    },
+    "158": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/30/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "13746"
+        }
+    },
+    "159": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/29/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "13733"
+        }
+    },
+    "160": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/28/2015",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "12510"
+        }
+    },
+    "161": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "1/24/2015",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 8",
+            "id": "12532"
+        }
+    },
+    "162": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Yu, Long",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/23/2015",
+            "num_perfs": "1",
+            "first_soloist": "Vengerov, Maxim",
+            "id": "13712"
+        }
+    },
+    "163": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Yu, Long",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/22/2015",
+            "num_perfs": "2",
+            "first_soloist": "Vengerov, Maxim",
+            "id": "12509"
+        }
+    },
+    "164": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "UNI",
+            "event_name": "PAT",
+            "first_date": "1/21/2015",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14164"
+        }
+    },
+    "165": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "1/20/2015",
+            "num_perfs": "1",
+            "first_soloist": "LeClair, Judith P. 4",
+            "id": "13989"
+        }
+    },
+    "166": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "1/18/2015",
+            "num_perfs": "1",
+            "first_soloist": "Akiho, Andy 11",
+            "id": "12591"
+        }
+    },
+    "167": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/17/2015",
+            "num_perfs": "1",
+            "first_soloist": "Meade, Angela 5",
+            "id": "13671"
+        }
+    },
+    "168": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/15/2015",
+            "num_perfs": "2",
+            "first_soloist": "Meade, Angela 5",
+            "id": "12508"
+        }
+    },
+    "169": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "1/11/2015",
+            "num_perfs": "1",
+            "first_soloist": "Deane, Richard 19",
+            "id": "14579"
+        }
+    },
+    "170": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/8/2015",
+            "num_perfs": "4",
+            "first_soloist": "McGill, Anthony",
+            "id": "12506"
+        }
+    },
+    "171": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "1/7/2015",
+            "num_perfs": "1",
+            "first_soloist": "Keller, James M. 2",
+            "id": "14060"
+        }
+    },
+    "172": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Mena, Juanjo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/2/2015",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13607"
+        }
+    },
+    "173": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NYE",
+            "first_date": "12/31/2014",
+            "num_perfs": "1",
+            "first_soloist": "Reeves, Dianne 5",
+            "id": "12504"
+        }
+    },
+    "174": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Mena, Juanjo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/30/2014",
+            "num_perfs": "3",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "12505"
+        }
+    },
+    "175": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Kitsopoulos, Constantine",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "12/20/2014",
+            "num_perfs": "1",
+            "first_soloist": "Rocca, Mo",
+            "id": "13256"
+        }
+    },
+    "176": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Kitsopoulos, Constantine",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "12/19/2014",
+            "num_perfs": "1",
+            "first_soloist": "Goldberg, Whoopi",
+            "id": "12527"
+        }
+    },
+    "177": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Wedow, Gary Thor",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/16/2014",
+            "num_perfs": "5",
+            "first_soloist": "Tilling, Camilla 15",
+            "id": "12507"
+        }
+    },
+    "178": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Smith, Philip",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Holiday Brass",
+            "first_date": "12/14/2014",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "13600"
+        }
+    },
+    "179": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Dohnanyi, Christoph von",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/11/2014",
+            "num_perfs": "3",
+            "first_soloist": "Helmchen, Martin",
+            "id": "12502"
+        }
+    },
+    "180": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "12/7/2014",
+            "num_perfs": "1",
+            "first_soloist": "Sylar, Sherry 9",
+            "id": "12674"
+        }
+    },
+    "181": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Urbanski, Krzysztof",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/4/2014",
+            "num_perfs": "4",
+            "first_soloist": "Weilerstein, Alisa",
+            "id": "12501"
+        }
+    },
+    "182": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "11/30/2014",
+            "num_perfs": "3",
+            "first_soloist": "Kaufman, Mindy 8",
+            "id": "13599"
+        }
+    },
+    "183": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "11/29/2014",
+            "num_perfs": "1",
+            "first_soloist": "Hahn, Hilary 14",
+            "id": "12500"
+        }
+    },
+    "184": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/28/2014",
+            "num_perfs": "1",
+            "first_soloist": "Hahn, Hilary",
+            "id": "13590"
+        }
+    },
+    "185": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/26/2014",
+            "num_perfs": "2",
+            "first_soloist": "Hahn, Hilary",
+            "id": "12499"
+        }
+    },
+    "186": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "11/23/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kwon, Soohyun 12",
+            "id": "12590"
+        }
+    },
+    "187": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/20/2014",
+            "num_perfs": "3",
+            "first_soloist": "Staples, Sheryl 2",
+            "id": "12498"
+        }
+    },
+    "188": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Ogren, Jayce",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SUB",
+            "event_name": "NME",
+            "first_date": "11/17/2014",
+            "num_perfs": "1",
+            "first_soloist": "Vickery, Nathan 22",
+            "id": "12605"
+        }
+    },
+    "189": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "11/15/2014",
+            "num_perfs": "1",
+            "first_soloist": "McCormick, Allan 3",
+            "id": "12528"
+        }
+    },
+    "190": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Scaglione, Case",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/12/2014",
+            "num_perfs": "5",
+            "first_soloist": "Bell, Joshua",
+            "id": "12497"
+        }
+    },
+    "191": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Sperling, Ted",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "I",
+            "first_date": "11/7/2014",
+            "num_perfs": "1",
+            "first_soloist": "Ovenden, Julian 9",
+            "id": "13315"
+        }
+    },
+    "192": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Sperling, Ted",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "11/5/2014",
+            "num_perfs": "5",
+            "first_soloist": "Williams, NaTasha Yvette 40",
+            "id": "12496"
+        }
+    },
+    "193": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "11/3/2014",
+            "num_perfs": "1",
+            "first_soloist": "Yao, Shanshan 4",
+            "id": "13988"
+        }
+    },
+    "194": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Slatkin, Leonard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/30/2014",
+            "num_perfs": "3",
+            "first_soloist": "Langevin, Robert",
+            "id": "12490"
+        }
+    },
+    "195": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "NEW",
+            "event_name": "PAT",
+            "first_date": "10/27/2014",
+            "num_perfs": "1",
+            "first_soloist": "Yeh, Ru-Pei 2",
+            "id": "13987"
+        }
+    },
+    "196": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "10/23/2014",
+            "num_perfs": "4",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "12487"
+        }
+    },
+    "197": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "10/22/2014",
+            "num_perfs": "1",
+            "first_soloist": "Oja, Carol J.",
+            "id": "14059"
+        }
+    },
+    "198": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "PFB",
+            "first_date": "10/21/2014",
+            "num_perfs": "1",
+            "first_soloist": "Lang, Lang",
+            "id": "12486"
+        }
+    },
+    "199": {
+        "metadata": {
+            "season": "2014-15",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "10/19/2014",
+            "num_perfs": "1",
+            "first_soloist": "Kenote, Peter 14",
+            "id": "12589"
+        }
+    }
+}

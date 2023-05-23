@@ -1,0 +1,2942 @@
+{
+    "0": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "Munoz [Mu\u00f1oz], Tito",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STB",
+            "event_name": "Virtual Performance",
+            "first_date": "2/13/2021",
+            "num_perfs": "1",
+            "first_soloist": "Roberts, Ryan 3",
+            "id": "14493"
+        }
+    },
+    "1": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STB",
+            "event_name": "Virtual Performance",
+            "first_date": "1/16/2021",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14588"
+        }
+    },
+    "2": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "Smith, Philip",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Holiday Brass",
+            "first_date": "12/18/2020",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14589"
+        }
+    },
+    "3": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "Virtual Performance",
+            "first_date": "12/17/2020",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic String Quartet",
+            "id": "14745"
+        }
+    },
+    "4": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Fundraising Concert",
+            "first_date": "11/19/2020",
+            "num_perfs": "1",
+            "first_soloist": "Groban, Josh 2",
+            "id": "14487"
+        }
+    },
+    "5": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "Virtual Performance",
+            "first_date": "11/12/2020",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 5",
+            "id": "14744"
+        }
+    },
+    "6": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "",
+            "first_venue": "undefined",
+            "event_name": "NS",
+            "first_date": "11/7/2020",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14737"
+        }
+    },
+    "7": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "Virtual Performance",
+            "first_date": "10/31/2020",
+            "num_perfs": "1",
+            "first_soloist": "Lu, Kuan Cheng 10",
+            "id": "14479"
+        }
+    },
+    "8": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "IHP",
+            "event_name": "Bandwagon",
+            "first_date": "10/18/2020",
+            "num_perfs": "3",
+            "first_soloist": "Costanzo, Anthony Roth 5",
+            "id": "14401"
+        }
+    },
+    "9": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "BBG",
+            "event_name": "Bandwagon",
+            "first_date": "10/17/2020",
+            "num_perfs": "3",
+            "first_soloist": "Costanzo, Anthony Roth 5",
+            "id": "14388"
+        }
+    },
+    "10": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "NYHS",
+            "event_name": "Bandwagon",
+            "first_date": "10/15/2020",
+            "num_perfs": "1",
+            "first_soloist": "Costanzo, Anthony Roth 3",
+            "id": "14721"
+        }
+    },
+    "11": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "BBP",
+            "event_name": "Bandwagon",
+            "first_date": "10/9/2020",
+            "num_perfs": "9",
+            "first_soloist": "Costanzo, Anthony Roth 4",
+            "id": "14583"
+        }
+    },
+    "12": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Bridgewater, CT",
+            "first_venue": "MAY",
+            "event_name": "Bandwagon",
+            "first_date": "10/4/2020",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 5",
+            "id": "14720"
+        }
+    },
+    "13": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "WTC",
+            "event_name": "Bandwagon",
+            "first_date": "10/1/2020",
+            "num_perfs": "9",
+            "first_soloist": "Costanzo, Anthony Roth 4",
+            "id": "14497"
+        }
+    },
+    "14": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "BBP",
+            "event_name": "Bandwagon",
+            "first_date": "9/25/2020",
+            "num_perfs": "9",
+            "first_soloist": "Costanzo, Anthony Roth 6",
+            "id": "14480"
+        }
+    },
+    "15": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "BBP",
+            "event_name": "Bandwagon",
+            "first_date": "9/18/2020",
+            "num_perfs": "9",
+            "first_soloist": "Costanzo, Anthony Roth 6",
+            "id": "14476"
+        }
+    },
+    "16": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "CPK",
+            "event_name": "Bandwagon",
+            "first_date": "9/11/2020",
+            "num_perfs": "9",
+            "first_soloist": "Costanzo, Anthony Roth 5",
+            "id": "14446"
+        }
+    },
+    "17": {
+        "metadata": {
+            "season": "2020-21",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "CPK",
+            "event_name": "Bandwagon",
+            "first_date": "9/4/2020",
+            "num_perfs": "9",
+            "first_soloist": "Costanzo, Anthony Roth 3",
+            "id": "14403"
+        }
+    },
+    "18": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "CPK",
+            "event_name": "Bandwagon",
+            "first_date": "8/28/2020",
+            "num_perfs": "9",
+            "first_soloist": "Costanzo, Anthony Roth 4",
+            "id": "14385"
+        }
+    },
+    "19": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "8/19/2020",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14463"
+        }
+    },
+    "20": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "8/18/2020",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14440"
+        }
+    },
+    "21": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "8/18/2020",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14467"
+        }
+    },
+    "22": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "7/24/2020",
+            "num_perfs": "1",
+            "first_soloist": "Shanghai Orchestra Academy, The",
+            "id": "14470"
+        }
+    },
+    "23": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "7/14/2020",
+            "num_perfs": "1",
+            "first_soloist": "Vickery, Nathan 6",
+            "id": "14485"
+        }
+    },
+    "24": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "7/5/2020",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 2",
+            "id": "14486"
+        }
+    },
+    "25": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "6/24/2020",
+            "num_perfs": "1",
+            "first_soloist": "Botti, Robert",
+            "id": "14477"
+        }
+    },
+    "26": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "6/23/2020",
+            "num_perfs": "1",
+            "first_soloist": "Curran, George",
+            "id": "14475"
+        }
+    },
+    "27": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "6/18/2020",
+            "num_perfs": "1",
+            "first_soloist": "Abyssinian Sanctuary Choir 4",
+            "id": "14439"
+        }
+    },
+    "28": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "5/27/2020",
+            "num_perfs": "1",
+            "first_soloist": "Vickery, Nathan",
+            "id": "14585"
+        }
+    },
+    "29": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "5/22/2020",
+            "num_perfs": "1",
+            "first_soloist": "Sylar, Sherry 2",
+            "id": "14584"
+        }
+    },
+    "30": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "IG",
+            "event_name": "Virtual Performance",
+            "first_date": "5/18/2020",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 2",
+            "id": "14438"
+        }
+    },
+    "31": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "IG",
+            "event_name": "Virtual Performance",
+            "first_date": "5/17/2020",
+            "num_perfs": "1",
+            "first_soloist": "Fierst, Alison",
+            "id": "14421"
+        }
+    },
+    "32": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "IG",
+            "event_name": "Virtual Performance",
+            "first_date": "5/10/2020",
+            "num_perfs": "1",
+            "first_soloist": "Bensdorf, Ethan",
+            "id": "14586"
+        }
+    },
+    "33": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "5/9/2020",
+            "num_perfs": "1",
+            "first_soloist": "Gonzales, Alexei Yupanqui 6",
+            "id": "14573"
+        }
+    },
+    "34": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "5/5/2020",
+            "num_perfs": "1",
+            "first_soloist": "LeClair, Judith P. 2",
+            "id": "14572"
+        }
+    },
+    "35": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/30/2020",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14553"
+        }
+    },
+    "36": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/25/2020",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14587"
+        }
+    },
+    "37": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/23/2020",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 4",
+            "id": "14542"
+        }
+    },
+    "38": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/15/2020",
+            "num_perfs": "1",
+            "first_soloist": "Son, Yoobin",
+            "id": "14552"
+        }
+    },
+    "39": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/12/2020",
+            "num_perfs": "1",
+            "first_soloist": "Kudo, Sumire 2",
+            "id": "14494"
+        }
+    },
+    "40": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/11/2020",
+            "num_perfs": "1",
+            "first_soloist": "Jee, Patrick 6",
+            "id": "14495"
+        }
+    },
+    "41": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/7/2020",
+            "num_perfs": "1",
+            "first_soloist": "Roberts, Ryan 2",
+            "id": "14496"
+        }
+    },
+    "42": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "4/3/2020",
+            "num_perfs": "1",
+            "first_soloist": "Trapkus, Isaac D 2",
+            "id": "14402"
+        }
+    },
+    "43": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "3/31/2020",
+            "num_perfs": "1",
+            "first_soloist": "Kudo, Sumire 2",
+            "id": "14492"
+        }
+    },
+    "44": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "3/23/2020",
+            "num_perfs": "1",
+            "first_soloist": "Vickery, Nathan 6",
+            "id": "14491"
+        }
+    },
+    "45": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "3/21/2020",
+            "num_perfs": "1",
+            "first_soloist": "Langevin, Robert",
+            "id": "14489"
+        }
+    },
+    "46": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Online Only",
+            "first_venue": "YT",
+            "event_name": "Virtual Performance",
+            "first_date": "3/21/2020",
+            "num_perfs": "1",
+            "first_soloist": "Kudo, Sumire 2",
+            "id": "14490"
+        }
+    },
+    "47": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Bahl, Ankush Kumar",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Fundraising Concert",
+            "first_date": "3/7/2020",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric 3",
+            "id": "14379"
+        }
+    },
+    "48": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Langree [Langr\u00e9e], Louis",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "3/5/2020",
+            "num_perfs": "3",
+            "first_soloist": "Leonard, Isabel 2",
+            "id": "14380"
+        }
+    },
+    "49": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "ALI",
+            "event_name": "Artist in Residence / Soloist Recital",
+            "first_date": "3/3/2020",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "14582"
+        }
+    },
+    "50": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "ZIN",
+            "event_name": "PAT",
+            "first_date": "3/2/2020",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 3",
+            "id": "14581"
+        }
+    },
+    "51": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Welser-M\u00f6st, Franz",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/27/2020",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "14378"
+        }
+    },
+    "52": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/20/2020",
+            "num_perfs": "3",
+            "first_soloist": "Fleming, Renee (Ren\u00e9e) 4",
+            "id": "14377"
+        }
+    },
+    "53": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "2/15/2020",
+            "num_perfs": "1",
+            "first_soloist": "Leon, Tania 7",
+            "id": "14484"
+        }
+    },
+    "54": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/15/2020",
+            "num_perfs": "2",
+            "first_soloist": "Jansen, Janine",
+            "id": "14575"
+        }
+    },
+    "55": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/13/2020",
+            "num_perfs": "1",
+            "first_soloist": "Jansen, Janine",
+            "id": "14376"
+        }
+    },
+    "56": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Milarsky, Jeffrey",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "APP",
+            "event_name": "Sound ON",
+            "first_date": "2/10/2020",
+            "num_perfs": "1",
+            "first_soloist": "Sirota, Nadia 23",
+            "id": "14474"
+        }
+    },
+    "57": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Candillari, Daniela",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CEC",
+            "event_name": "S",
+            "first_date": "2/8/2020",
+            "num_perfs": "4",
+            "first_soloist": "Proske, Louisa 28",
+            "id": "14576"
+        }
+    },
+    "58": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/5/2020",
+            "num_perfs": "4",
+            "first_soloist": "Brey, Carter 6",
+            "id": "14375"
+        }
+    },
+    "59": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "2/2/2020",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 7",
+            "id": "14488"
+        }
+    },
+    "60": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Young, Simone",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "2/1/2020",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 6",
+            "id": "14374"
+        }
+    },
+    "61": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Young, Simone",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/30/2020",
+            "num_perfs": "2",
+            "first_soloist": "Gerhardt, Alban",
+            "id": "14373"
+        }
+    },
+    "62": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Yu, Long",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Fundraising Concert",
+            "first_date": "1/28/2020",
+            "num_perfs": "1",
+            "first_soloist": "Shaham, Gil 2",
+            "id": "14372"
+        }
+    },
+    "63": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Dudamel, Gustavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/23/2020",
+            "num_perfs": "3",
+            "first_soloist": "DeYoung, Michelle 2",
+            "id": "14367"
+        }
+    },
+    "64": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Dudamel, Gustavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/15/2020",
+            "num_perfs": "5",
+            "first_soloist": "Tiempo, Sergio",
+            "id": "14365"
+        }
+    },
+    "65": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "1/12/2020",
+            "num_perfs": "1",
+            "first_soloist": "Kwon, Soohyun 13",
+            "id": "14437"
+        }
+    },
+    "66": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Harding, Daniel",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/9/2020",
+            "num_perfs": "3",
+            "first_soloist": "Lewis, Paul",
+            "id": "14364"
+        }
+    },
+    "67": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "1/4/2020",
+            "num_perfs": "1",
+            "first_soloist": "Kahane, Jeffrey 2",
+            "id": "14363"
+        }
+    },
+    "68": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/3/2020",
+            "num_perfs": "3",
+            "first_soloist": "Kahane, Jeffrey",
+            "id": "14362"
+        }
+    },
+    "69": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Gemignani, Alexander",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "12/31/2019",
+            "num_perfs": "1",
+            "first_soloist": "Lenk, Katrina 3",
+            "id": "14361"
+        }
+    },
+    "70": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "C",
+            "first_date": "12/23/2019",
+            "num_perfs": "1",
+            "first_soloist": "Luo, Chang 33",
+            "id": "14568"
+        }
+    },
+    "71": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Bicket, Harry",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/19/2019",
+            "num_perfs": "1",
+            "first_soloist": "Alder, Louise 9",
+            "id": "14567"
+        }
+    },
+    "72": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Bicket, Harry",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/17/2019",
+            "num_perfs": "4",
+            "first_soloist": "Alder, Louise 9",
+            "id": "14360"
+        }
+    },
+    "73": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Smith, Philip",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Holiday Brass",
+            "first_date": "12/15/2019",
+            "num_perfs": "1",
+            "first_soloist": "Smith, Philip 2",
+            "id": "14540"
+        }
+    },
+    "74": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Freer, Justin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "12/11/2019",
+            "num_perfs": "4",
+            "first_soloist": "None",
+            "id": "14359"
+        }
+    },
+    "75": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "12/7/2019",
+            "num_perfs": "1",
+            "first_soloist": "Reich, Steve 6",
+            "id": "14483"
+        }
+    },
+    "76": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "12/7/2019",
+            "num_perfs": "1",
+            "first_soloist": "Rezanour, Jamie 3",
+            "id": "14350"
+        }
+    },
+    "77": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/5/2019",
+            "num_perfs": "3",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14357"
+        }
+    },
+    "78": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DBL",
+            "event_name": "PAT",
+            "first_date": "12/4/2019",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 2",
+            "id": "14566"
+        }
+    },
+    "79": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/3/2019",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "14564"
+        }
+    },
+    "80": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAT",
+            "event_name": "PAT",
+            "first_date": "12/2/2019",
+            "num_perfs": "1",
+            "first_soloist": "Park, Su Hyun 4",
+            "id": "14565"
+        }
+    },
+    "81": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "12/1/2019",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil 2",
+            "id": "14445"
+        }
+    },
+    "82": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "11/30/2019",
+            "num_perfs": "1",
+            "first_soloist": "Izotov, Eugene 8",
+            "id": "14356"
+        }
+    },
+    "83": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/30/2019",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "14563"
+        }
+    },
+    "84": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/29/2019",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "14562"
+        }
+    },
+    "85": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "14355"
+        }
+    },
+    "86": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "11/24/2019",
+            "num_perfs": "1",
+            "first_soloist": "Botti, Robert 12",
+            "id": "14436"
+        }
+    },
+    "87": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Hrusa [Hr\u016f\u0161a], Jakub",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/22/2019",
+            "num_perfs": "2",
+            "first_soloist": "Weilerstein, Alisa",
+            "id": "14561"
+        }
+    },
+    "88": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Hrusa [Hr\u016f\u0161a], Jakub",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/21/2019",
+            "num_perfs": "1",
+            "first_soloist": "Weilerstein, Alisa",
+            "id": "14352"
+        }
+    },
+    "89": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "FRI",
+            "event_name": "I",
+            "first_date": "11/19/2019",
+            "num_perfs": "1",
+            "first_soloist": "Son, Yoobin 3",
+            "id": "14569"
+        }
+    },
+    "90": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "11/16/2019",
+            "num_perfs": "1",
+            "first_soloist": "Dessner, Bryce 6",
+            "id": "14482"
+        }
+    },
+    "91": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Rouvali, Santtu-Matias",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/14/2019",
+            "num_perfs": "3",
+            "first_soloist": "Dessner, Bryce",
+            "id": "14351"
+        }
+    },
+    "92": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "NWM",
+            "event_name": "PAT",
+            "first_date": "11/11/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 5",
+            "id": "14555"
+        }
+    },
+    "93": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Lecce-Chong, Francesco",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "11/9/2019",
+            "num_perfs": "1",
+            "first_soloist": "Thurber, Michael 3",
+            "id": "14366"
+        }
+    },
+    "94": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "11/7/2019",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic String Quartet",
+            "id": "14554"
+        }
+    },
+    "95": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/6/2019",
+            "num_perfs": "4",
+            "first_soloist": "Brey, Carter",
+            "id": "14349"
+        }
+    },
+    "96": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Jordan, Philippe",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/2/2019",
+            "num_perfs": "1",
+            "first_soloist": "Fischer, Julia",
+            "id": "14547"
+        }
+    },
+    "97": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Jordan, Philippe",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/1/2019",
+            "num_perfs": "1",
+            "first_soloist": "Fischer, Julia",
+            "id": "14545"
+        }
+    },
+    "98": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Jordan, Philippe",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/31/2019",
+            "num_perfs": "1",
+            "first_soloist": "Fischer, Julia",
+            "id": "14544"
+        }
+    },
+    "99": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "COS",
+            "event_name": "PAT",
+            "first_date": "10/30/2019",
+            "num_perfs": "1",
+            "first_soloist": "Allen, Nancy 2",
+            "id": "14546"
+        }
+    },
+    "100": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Jordan, Philippe",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/30/2019",
+            "num_perfs": "1",
+            "first_soloist": "Fischer, Julia",
+            "id": "14348"
+        }
+    },
+    "101": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "10/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "Kudo, Sumire 13",
+            "id": "14435"
+        }
+    },
+    "102": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Deneve [Den\u00e8ve], Stephane [St\u00e9phane]",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/26/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14543"
+        }
+    },
+    "103": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Deneve [Den\u00e8ve], Stephane [St\u00e9phane]",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/25/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14536"
+        }
+    },
+    "104": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Deneve [Den\u00e8ve], Stephane [St\u00e9phane]",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/24/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14347"
+        }
+    },
+    "105": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Malkki [M\u00e4lkki], Susanna",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/18/2019",
+            "num_perfs": "3",
+            "first_soloist": "Wu, Wei",
+            "id": "14346"
+        }
+    },
+    "106": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Stillwater, OK",
+            "first_venue": "MCK",
+            "event_name": "Tour - Young People's Concerts for Schools",
+            "first_date": "10/14/2019",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "14749"
+        }
+    },
+    "107": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Stillwater, OK",
+            "first_venue": "MCK",
+            "event_name": "T",
+            "first_date": "10/13/2019",
+            "num_perfs": "1",
+            "first_soloist": "O'Hara, Kelli",
+            "id": "14323"
+        }
+    },
+    "108": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Stillwater, OK",
+            "first_venue": "MCK",
+            "event_name": "T",
+            "first_date": "10/12/2019",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank",
+            "id": "14322"
+        }
+    },
+    "109": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Stillwater, OK",
+            "first_venue": "MCK",
+            "event_name": "T",
+            "first_date": "10/11/2019",
+            "num_perfs": "1",
+            "first_soloist": "O'Hara, Kelli",
+            "id": "14321"
+        }
+    },
+    "110": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Fundraising Concert",
+            "first_date": "10/7/2019",
+            "num_perfs": "1",
+            "first_soloist": "Lang, Lang",
+            "id": "14317"
+        }
+    },
+    "111": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "10/5/2019",
+            "num_perfs": "1",
+            "first_soloist": "Anderson, Laurie 6",
+            "id": "14481"
+        }
+    },
+    "112": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/3/2019",
+            "num_perfs": "3",
+            "first_soloist": "Hadelich, Augustin",
+            "id": "14320"
+        }
+    },
+    "113": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Milarsky, Jeffrey",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "APP",
+            "event_name": "Sound ON",
+            "first_date": "10/1/2019",
+            "num_perfs": "1",
+            "first_soloist": "Sirota, Nadia 19",
+            "id": "14473"
+        }
+    },
+    "114": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/26/2019",
+            "num_perfs": "3",
+            "first_soloist": "Stemme, Nina 8",
+            "id": "14319"
+        }
+    },
+    "115": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/19/2019",
+            "num_perfs": "3",
+            "first_soloist": "O'Hara, Kelli",
+            "id": "14539"
+        }
+    },
+    "116": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/18/2019",
+            "num_perfs": "1",
+            "first_soloist": "O'Hara, Kelli",
+            "id": "14318"
+        }
+    },
+    "117": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Kaufman, Richard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/13/2019",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "14354"
+        }
+    },
+    "118": {
+        "metadata": {
+            "season": "2019-20",
+            "first_conductor": "Kaufman, Richard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/11/2019",
+            "num_perfs": "2",
+            "first_soloist": "Musica Sacra",
+            "id": "14353"
+        }
+    },
+    "119": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Slatkin, Leonard 2",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/24/2019",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14287"
+        }
+    },
+    "120": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Slatkin, Leonard",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/23/2019",
+            "num_perfs": "1",
+            "first_soloist": "Slatkin, Leonard 5",
+            "id": "14286"
+        }
+    },
+    "121": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/20/2019",
+            "num_perfs": "1",
+            "first_soloist": "Tao, Conrad",
+            "id": "14285"
+        }
+    },
+    "122": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/19/2019",
+            "num_perfs": "1",
+            "first_soloist": "Hadelich, Augustin",
+            "id": "14284"
+        }
+    },
+    "123": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Joel, Alexander",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/18/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14269"
+        }
+    },
+    "124": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/17/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14144"
+        }
+    },
+    "125": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "East Hampton, NY",
+            "first_venue": "GUI",
+            "event_name": "C",
+            "first_date": "7/13/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 7",
+            "id": "14460"
+        }
+    },
+    "126": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/3/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14291"
+        }
+    },
+    "127": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/2/2019",
+            "num_perfs": "1",
+            "first_soloist": "Cho, Seong-Jin",
+            "id": "14290"
+        }
+    },
+    "128": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Nanjing, China",
+            "first_venue": "JIA",
+            "event_name": "T",
+            "first_date": "6/30/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14292"
+        }
+    },
+    "129": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Guangzhou, CHINA",
+            "first_venue": "XCH",
+            "event_name": "T",
+            "first_date": "6/28/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14289"
+        }
+    },
+    "130": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Guangzhou, CHINA",
+            "first_venue": "XCH",
+            "event_name": "T",
+            "first_date": "6/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14288"
+        }
+    },
+    "131": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Smith, Philip",
+            "orch": "MUS",
+            "first_location": "Staten Island, NY",
+            "first_venue": "SGT",
+            "event_name": "FIC",
+            "first_date": "6/16/2019",
+            "num_perfs": "1",
+            "first_soloist": "Smith, Philip 15",
+            "id": "14451"
+        }
+    },
+    "132": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Queens, NY",
+            "first_venue": "CUN",
+            "event_name": "P",
+            "first_date": "6/13/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14452"
+        }
+    },
+    "133": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Bronx, NY",
+            "first_venue": "VCP",
+            "event_name": "P",
+            "first_date": "6/11/2019",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "14270"
+        }
+    },
+    "134": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "6/6/2019",
+            "num_perfs": "3",
+            "first_soloist": "Mathevet, Julie 17",
+            "id": "14252"
+        }
+    },
+    "135": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DRA",
+            "event_name": "INS",
+            "first_date": "6/4/2019",
+            "num_perfs": "1",
+            "first_soloist": "Borda, Deborah 2",
+            "id": "14752"
+        }
+    },
+    "136": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "APP",
+            "event_name": "Sound ON",
+            "first_date": "6/2/2019",
+            "num_perfs": "1",
+            "first_soloist": "Sirota, Nadia 15",
+            "id": "14449"
+        }
+    },
+    "137": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "6/2/2019",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 7",
+            "id": "14450"
+        }
+    },
+    "138": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "6/1/2019",
+            "num_perfs": "1",
+            "first_soloist": "Corigliano, John, Jr. 10",
+            "id": "14371"
+        }
+    },
+    "139": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/30/2019",
+            "num_perfs": "2",
+            "first_soloist": "Fray, David",
+            "id": "14251"
+        }
+    },
+    "140": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MC",
+            "event_name": "C",
+            "first_date": "5/29/2019",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 5",
+            "id": "14448"
+        }
+    },
+    "141": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "LGBT",
+            "event_name": "LEC",
+            "first_date": "5/29/2019",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric 4",
+            "id": "14447"
+        }
+    },
+    "142": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "SJD",
+            "first_date": "5/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14250"
+        }
+    },
+    "143": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "5/26/2019",
+            "num_perfs": "1",
+            "first_soloist": "Sun, Na 15",
+            "id": "14299"
+        }
+    },
+    "144": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/22/2019",
+            "num_perfs": "4",
+            "first_soloist": "None",
+            "id": "14249"
+        }
+    },
+    "145": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "NSC",
+            "event_name": "PCS",
+            "first_date": "5/20/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14751"
+        }
+    },
+    "146": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Daugherty, George",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "5/17/2019",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "14248"
+        }
+    },
+    "147": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Vaccariello, Patrick",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "5/16/2019",
+            "num_perfs": "1",
+            "first_soloist": "LuPone, Patti 7",
+            "id": "14239"
+        }
+    },
+    "148": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Milan, ITALY",
+            "first_venue": "UNK",
+            "event_name": "PAT",
+            "first_date": "5/12/2019",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14750"
+        }
+    },
+    "149": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Wilkins, Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "5/11/2019",
+            "num_perfs": "1",
+            "first_soloist": "Wilkins, Thomas 3",
+            "id": "14247"
+        }
+    },
+    "150": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Wilkins, Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "5/10/2019",
+            "num_perfs": "1",
+            "first_soloist": "Wilkins, Thomas 3",
+            "id": "14423"
+        }
+    },
+    "151": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Wilkins, Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "5/9/2019",
+            "num_perfs": "2",
+            "first_soloist": "Wilkins, Thomas 4",
+            "id": "14422"
+        }
+    },
+    "152": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Wilkins, Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "5/8/2019",
+            "num_perfs": "1",
+            "first_soloist": "Wilkins, Thomas 3",
+            "id": "14246"
+        }
+    },
+    "153": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/3/2019",
+            "num_perfs": "1",
+            "first_soloist": "Labeque [Lab\u00e8que], Katia 3",
+            "id": "14444"
+        }
+    },
+    "154": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/2/2019",
+            "num_perfs": "2",
+            "first_soloist": "Labeque [Lab\u00e8que], Katia 3",
+            "id": "14245"
+        }
+    },
+    "155": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "C",
+            "first_date": "5/1/2019",
+            "num_perfs": "1",
+            "first_soloist": "Sylar, Sherry 5",
+            "id": "14443"
+        }
+    },
+    "156": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Bloxham, Jonathan",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "C",
+            "first_date": "4/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "Deak, Jon 12",
+            "id": "14768"
+        }
+    },
+    "157": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "4/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic String Quartet",
+            "id": "14244"
+        }
+    },
+    "158": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/24/2019",
+            "num_perfs": "4",
+            "first_soloist": "None",
+            "id": "14243"
+        }
+    },
+    "159": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Young, Simone",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/11/2019",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "14242"
+        }
+    },
+    "160": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "4/7/2019",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 13",
+            "id": "14298"
+        }
+    },
+    "161": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Phil the Hall",
+            "first_date": "4/4/2019",
+            "num_perfs": "4",
+            "first_soloist": "Franklin, Nia 3",
+            "id": "14240"
+        }
+    },
+    "162": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "NWC",
+            "event_name": "C",
+            "first_date": "4/2/2019",
+            "num_perfs": "1",
+            "first_soloist": "Choi, Janey 4",
+            "id": "14420"
+        }
+    },
+    "163": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "3/31/2019",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 7",
+            "id": "14419"
+        }
+    },
+    "164": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "C",
+            "first_date": "3/28/2019",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 4",
+            "id": "14418"
+        }
+    },
+    "165": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "PFB",
+            "first_date": "3/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14241"
+        }
+    },
+    "166": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "BUK",
+            "event_name": "PAT",
+            "first_date": "3/25/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14541"
+        }
+    },
+    "167": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "3/23/2019",
+            "num_perfs": "1",
+            "first_soloist": "Adams, John 4",
+            "id": "14370"
+        }
+    },
+    "168": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "3/21/2019",
+            "num_perfs": "3",
+            "first_soloist": "Goerne, Matthias",
+            "id": "14238"
+        }
+    },
+    "169": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "3/17/2019",
+            "num_perfs": "1",
+            "first_soloist": "Goerne, Matthias 9",
+            "id": "14432"
+        }
+    },
+    "170": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Honeck, Manfred",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "3/13/2019",
+            "num_perfs": "4",
+            "first_soloist": "Goode, Richard 6",
+            "id": "14237"
+        }
+    },
+    "171": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "HSS",
+            "event_name": "PAT",
+            "first_date": "3/11/2019",
+            "num_perfs": "1",
+            "first_soloist": "Li, Qianqian 5",
+            "id": "14433"
+        }
+    },
+    "172": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Yu, Long",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "3/6/2019",
+            "num_perfs": "4",
+            "first_soloist": "Ma, Yo-Yo 2",
+            "id": "14236"
+        }
+    },
+    "173": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Outwater, Edwin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "3/2/2019",
+            "num_perfs": "1",
+            "first_soloist": "Sirota, Nadia 5",
+            "id": "14235"
+        }
+    },
+    "174": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Blomstedt, Herbert",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/28/2019",
+            "num_perfs": "3",
+            "first_soloist": "Thibaudet, Jean-Yves",
+            "id": "14234"
+        }
+    },
+    "175": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "2/24/2019",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 7",
+            "id": "14429"
+        }
+    },
+    "176": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Pintscher, Matthias",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "2/23/2019",
+            "num_perfs": "1",
+            "first_soloist": "Langevin, Robert 9",
+            "id": "14233"
+        }
+    },
+    "177": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "2/23/2019",
+            "num_perfs": "1",
+            "first_soloist": "Pintscher, Matthias 9",
+            "id": "14369"
+        }
+    },
+    "178": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Pintscher, Matthias",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/21/2019",
+            "num_perfs": "3",
+            "first_soloist": "Capucon (Capu\u00e7on), Renaud",
+            "id": "14232"
+        }
+    },
+    "179": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "2/17/2019",
+            "num_perfs": "1",
+            "first_soloist": "Lu, Kuan Cheng 9",
+            "id": "14297"
+        }
+    },
+    "180": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Dausgaard, Thomas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/14/2019",
+            "num_perfs": "3",
+            "first_soloist": "Hough, Stephen",
+            "id": "14231"
+        }
+    },
+    "181": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/7/2019",
+            "num_perfs": "3",
+            "first_soloist": "Fang, Ying 3",
+            "id": "14230"
+        }
+    },
+    "182": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Wong, Kahchun",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Fundraising Concert",
+            "first_date": "2/6/2019",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Bomsori 2",
+            "id": "14229"
+        }
+    },
+    "183": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/31/2019",
+            "num_perfs": "3",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14428"
+        }
+    },
+    "184": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/30/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14228"
+        }
+    },
+    "185": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Biloen, Peter",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "APP",
+            "event_name": "Sound ON",
+            "first_date": "1/27/2019",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 14",
+            "id": "14427"
+        }
+    },
+    "186": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/24/2019",
+            "num_perfs": "3",
+            "first_soloist": "McGill, Anthony 3",
+            "id": "14227"
+        }
+    },
+    "187": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/22/2019",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14425"
+        }
+    },
+    "188": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "1/20/2019",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim 6",
+            "id": "14414"
+        }
+    },
+    "189": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/19/2019",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14424"
+        }
+    },
+    "190": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/18/2019",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14417"
+        }
+    },
+    "191": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/16/2019",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14226"
+        }
+    },
+    "192": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "TEN",
+            "event_name": "C",
+            "first_date": "1/14/2019",
+            "num_perfs": "2",
+            "first_soloist": "Wolfe, Julia 4",
+            "id": "14416"
+        }
+    },
+    "193": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "1/13/2019",
+            "num_perfs": "1",
+            "first_soloist": "Smith, Thomas 12",
+            "id": "14296"
+        }
+    },
+    "194": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Hrusa [Hr\u016f\u0161a], Jakub",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "1/12/2019",
+            "num_perfs": "1",
+            "first_soloist": "Students from Fiorello H. LaGuardia High School of Music & Art and Performing Arts",
+            "id": "14225"
+        }
+    },
+    "195": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Hrusa [Hr\u016f\u0161a], Jakub",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/11/2019",
+            "num_perfs": "1",
+            "first_soloist": "Trpceski, Simon 2",
+            "id": "14415"
+        }
+    },
+    "196": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Hrusa [Hr\u016f\u0161a], Jakub",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/10/2019",
+            "num_perfs": "2",
+            "first_soloist": "Trpceski, Simon 2",
+            "id": "14224"
+        }
+    },
+    "197": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Jarvi [J\u00e4rvi], Paavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/4/2019",
+            "num_perfs": "1",
+            "first_soloist": "Capucon (Capu\u00e7on), Gautier",
+            "id": "14413"
+        }
+    },
+    "198": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Jarvi [J\u00e4rvi], Paavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/3/2019",
+            "num_perfs": "2",
+            "first_soloist": "Capucon (Capu\u00e7on), Gautier",
+            "id": "14223"
+        }
+    },
+    "199": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "12/31/2018",
+            "num_perfs": "1",
+            "first_soloist": "Fleming, Renee (Ren\u00e9e)",
+            "id": "14222"
+        }
+    },
+    "200": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Kitsopoulos, Constantine",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "12/20/2018",
+            "num_perfs": "2",
+            "first_soloist": "Brooklyn Youth Chorus",
+            "id": "14220"
+        }
+    },
+    "201": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Smith, Philip 2",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Holiday Brass",
+            "first_date": "12/16/2018",
+            "num_perfs": "1",
+            "first_soloist": "Tovey, Bramwell 21",
+            "id": "14358"
+        }
+    },
+    "202": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Cohen, Jonathan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/11/2018",
+            "num_perfs": "5",
+            "first_soloist": "Snouffer, Lauren 10",
+            "id": "14221"
+        }
+    },
+    "203": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "12/9/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 17",
+            "id": "14295"
+        }
+    },
+    "204": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/7/2018",
+            "num_perfs": "2",
+            "first_soloist": "Goerne, Matthias 2",
+            "id": "14411"
+        }
+    },
+    "205": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/6/2018",
+            "num_perfs": "1",
+            "first_soloist": "Goerne, Matthias 2",
+            "id": "14219"
+        }
+    },
+    "206": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "HIT",
+            "event_name": "PAT",
+            "first_date": "12/3/2018",
+            "num_perfs": "1",
+            "first_soloist": "Ziskel, Yulia 3",
+            "id": "14459"
+        }
+    },
+    "207": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/30/2018",
+            "num_perfs": "2",
+            "first_soloist": "Lamsma, Simone",
+            "id": "14408"
+        }
+    },
+    "208": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/29/2018",
+            "num_perfs": "1",
+            "first_soloist": "Lamsma, Simone",
+            "id": "14218"
+        }
+    },
+    "209": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "RAC",
+            "event_name": "PAT",
+            "first_date": "11/28/2018",
+            "num_perfs": "1",
+            "first_soloist": "Sun, Na 3",
+            "id": "14458"
+        }
+    }
+}

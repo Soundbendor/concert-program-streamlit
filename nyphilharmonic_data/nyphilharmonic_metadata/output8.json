@@ -1,0 +1,2802 @@
+{
+    "0": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "5/10/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bartlett, Eric 6",
+            "id": "11047"
+        }
+    },
+    "1": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "5/9/2010",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 10",
+            "id": "10376"
+        }
+    },
+    "2": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MET",
+            "event_name": "C",
+            "first_date": "5/9/2010",
+            "num_perfs": "1",
+            "first_soloist": "Volodin, Alexei 5",
+            "id": "10494"
+        }
+    },
+    "3": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/7/2010",
+            "num_perfs": "2",
+            "first_soloist": "Volodin, Alexei",
+            "id": "10198"
+        }
+    },
+    "4": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/6/2010",
+            "num_perfs": "1",
+            "first_soloist": "Matsuev, Denis 2",
+            "id": "11254"
+        }
+    },
+    "5": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/5/2010",
+            "num_perfs": "1",
+            "first_soloist": "Matsuev, Denis 2",
+            "id": "10197"
+        }
+    },
+    "6": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "FC",
+            "first_date": "5/2/2010",
+            "num_perfs": "1",
+            "first_soloist": "Baldwin, Alec 32",
+            "id": "10199"
+        }
+    },
+    "7": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/1/2010",
+            "num_perfs": "1",
+            "first_soloist": "Irons, Jeremy 7",
+            "id": "11215"
+        }
+    },
+    "8": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MOR",
+            "event_name": "INS",
+            "first_date": "5/1/2010",
+            "num_perfs": "1",
+            "first_soloist": "Chen, Sean 13",
+            "id": "11018"
+        }
+    },
+    "9": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/30/2010",
+            "num_perfs": "1",
+            "first_soloist": "Irons, Jeremy 6",
+            "id": "10194"
+        }
+    },
+    "10": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/29/2010",
+            "num_perfs": "1",
+            "first_soloist": "Kavakos, Leonidas 8",
+            "id": "11187"
+        }
+    },
+    "11": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/28/2010",
+            "num_perfs": "1",
+            "first_soloist": "Kavakos, Leonidas 8",
+            "id": "10193"
+        }
+    },
+    "12": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/24/2010",
+            "num_perfs": "1",
+            "first_soloist": "Chorus of the Mariinsky Theatre",
+            "id": "10192"
+        }
+    },
+    "13": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/23/2010",
+            "num_perfs": "1",
+            "first_soloist": "Khudoley, Mlada 16",
+            "id": "11178"
+        }
+    },
+    "14": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/22/2010",
+            "num_perfs": "1",
+            "first_soloist": "Khudoley, Mlada 16",
+            "id": "11177"
+        }
+    },
+    "15": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gergiev, Valery",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/21/2010",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10191"
+        }
+    },
+    "16": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "4/20/2010",
+            "num_perfs": "1",
+            "first_soloist": "Dicterow, Glenn 4",
+            "id": "11042"
+        }
+    },
+    "17": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SYM",
+            "event_name": "NME",
+            "first_date": "4/16/2010",
+            "num_perfs": "2",
+            "first_soloist": "Hampson, Thomas",
+            "id": "10214"
+        }
+    },
+    "18": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/14/2010",
+            "num_perfs": "4",
+            "first_soloist": "Brey, Carter",
+            "id": "10189"
+        }
+    },
+    "19": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "PCC",
+            "event_name": "PAT",
+            "first_date": "4/13/2010",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Liang 4",
+            "id": "11148"
+        }
+    },
+    "20": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "4/11/2010",
+            "num_perfs": "3",
+            "first_soloist": "Simon, Fiona 10",
+            "id": "10375"
+        }
+    },
+    "21": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "ALI",
+            "event_name": "Artist in Residence / Soloist Recital",
+            "first_date": "4/11/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas 2",
+            "id": "11186"
+        }
+    },
+    "22": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Pappano, Antonio",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/8/2010",
+            "num_perfs": "3",
+            "first_soloist": "Bell, Joshua",
+            "id": "10187"
+        }
+    },
+    "23": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Pappano, Antonio",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "RHC",
+            "first_date": "4/7/2010",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10188"
+        }
+    },
+    "24": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "INS",
+            "first_date": "4/5/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas 2",
+            "id": "13735"
+        }
+    },
+    "25": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Boico, Daniel",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "3/27/2010",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 7",
+            "id": "10186"
+        }
+    },
+    "26": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/25/2010",
+            "num_perfs": "3",
+            "first_soloist": "Kahane, Jeffrey",
+            "id": "10185"
+        }
+    },
+    "27": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "3/24/2010",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 5",
+            "id": "11113"
+        }
+    },
+    "28": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Eschenbach, Christoph",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/18/2010",
+            "num_perfs": "3",
+            "first_soloist": "Zukerman, Pinchas",
+            "id": "10184"
+        }
+    },
+    "29": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gemignani, Paul",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "3/16/2010",
+            "num_perfs": "1",
+            "first_soloist": "Price, Lonny 29",
+            "id": "11000"
+        }
+    },
+    "30": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gemignani, Paul",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "PFB",
+            "first_date": "3/15/2010",
+            "num_perfs": "1",
+            "first_soloist": "Price, Lonny 34",
+            "id": "10220"
+        }
+    },
+    "31": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "3/14/2010",
+            "num_perfs": "1",
+            "first_soloist": "Laskowski, Kim 16",
+            "id": "10361"
+        }
+    },
+    "32": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/10/2010",
+            "num_perfs": "3",
+            "first_soloist": "Repin, Vadim",
+            "id": "10183"
+        }
+    },
+    "33": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Artist in Residence / Soloist Recital",
+            "first_date": "3/6/2010",
+            "num_perfs": "1",
+            "first_soloist": "Schiff, Andr\u00e1s",
+            "id": "10661"
+        }
+    },
+    "34": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Boico, Daniel",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "3/6/2010",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 5",
+            "id": "10196"
+        }
+    },
+    "35": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/4/2010",
+            "num_perfs": "3",
+            "first_soloist": "Schiff, Andr\u00e1s",
+            "id": "10182"
+        }
+    },
+    "36": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "RHC",
+            "first_date": "3/3/2010",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Liang 4",
+            "id": "10219"
+        }
+    },
+    "37": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "2/28/2010",
+            "num_perfs": "3",
+            "first_soloist": "Rabinova, Anna 9",
+            "id": "10374"
+        }
+    },
+    "38": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "2/27/2010",
+            "num_perfs": "1",
+            "first_soloist": "Shaham, Gil 8",
+            "id": "10181"
+        }
+    },
+    "39": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/25/2010",
+            "num_perfs": "3",
+            "first_soloist": "Shaham, Gil",
+            "id": "10180"
+        }
+    },
+    "40": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "HAS",
+            "event_name": "PAT",
+            "first_date": "2/24/2010",
+            "num_perfs": "1",
+            "first_soloist": "Dicterow, Glenn 5",
+            "id": "10721"
+        }
+    },
+    "41": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "2/21/2010",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 15",
+            "id": "10222"
+        }
+    },
+    "42": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/18/2010",
+            "num_perfs": "3",
+            "first_soloist": "Hodges, Nicolas",
+            "id": "10179"
+        }
+    },
+    "43": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "UNC",
+            "event_name": "PAT",
+            "first_date": "2/17/2010",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Liang 4",
+            "id": "10662"
+        }
+    },
+    "44": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CH",
+            "event_name": "SUB",
+            "first_date": "2/13/2010",
+            "num_perfs": "1",
+            "first_soloist": "Kriikku, Kari",
+            "id": "10177"
+        }
+    },
+    "45": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/10/2010",
+            "num_perfs": "4",
+            "first_soloist": "Wang, Liang 4",
+            "id": "10176"
+        }
+    },
+    "46": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "London, ENGLAND",
+            "first_venue": "BAR",
+            "event_name": "T",
+            "first_date": "2/4/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "10706"
+        }
+    },
+    "47": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "London, ENGLAND",
+            "first_venue": "BAR",
+            "event_name": "T",
+            "first_date": "2/3/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10709"
+        }
+    },
+    "48": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Paris, FRANCE",
+            "first_venue": "SAL",
+            "event_name": "T",
+            "first_date": "2/2/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "10705"
+        }
+    },
+    "49": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Paris, FRANCE",
+            "first_venue": "SAL",
+            "event_name": "T",
+            "first_date": "2/1/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10343"
+        }
+    },
+    "50": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Paris, FRANCE",
+            "first_venue": "EMB",
+            "event_name": "TC",
+            "first_date": "1/31/2010",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 4",
+            "id": "13323"
+        }
+    },
+    "51": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Dortmund, GERMANY",
+            "first_venue": "KON",
+            "event_name": "T",
+            "first_date": "1/30/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "10156"
+        }
+    },
+    "52": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Cologne, GERMANY",
+            "first_venue": "KPH",
+            "event_name": "T",
+            "first_date": "1/29/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10708"
+        }
+    },
+    "53": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Cologne, GERMANY",
+            "first_venue": "KPH",
+            "event_name": "T",
+            "first_date": "1/28/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "13322"
+        }
+    },
+    "54": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Frankfurt, GERMANY",
+            "first_venue": "ALT",
+            "event_name": "T",
+            "first_date": "1/27/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10174"
+        }
+    },
+    "55": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Zurich, SWITZERLAND",
+            "first_venue": "TON",
+            "event_name": "T",
+            "first_date": "1/26/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10711"
+        }
+    },
+    "56": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Zurich, SWITZERLAND",
+            "first_venue": "TON",
+            "event_name": "TC",
+            "first_date": "1/25/2010",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 4",
+            "id": "10663"
+        }
+    },
+    "57": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Madrid, SPAIN",
+            "first_venue": "AUD",
+            "event_name": "T",
+            "first_date": "1/24/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "13321"
+        }
+    },
+    "58": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Madrid, SPAIN",
+            "first_venue": "AUD",
+            "event_name": "T",
+            "first_date": "1/23/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10707"
+        }
+    },
+    "59": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Zaragoza, SPAIN",
+            "first_venue": "AUD",
+            "event_name": "T",
+            "first_date": "1/22/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10172"
+        }
+    },
+    "60": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Barcelona, SPAIN",
+            "first_venue": "PAL",
+            "event_name": "T",
+            "first_date": "1/21/2010",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "10173"
+        }
+    },
+    "61": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MET",
+            "event_name": "C",
+            "first_date": "1/17/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim 5",
+            "id": "10378"
+        }
+    },
+    "62": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/14/2010",
+            "num_perfs": "3",
+            "first_soloist": "Hampson, Thomas",
+            "id": "10171"
+        }
+    },
+    "63": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/12/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10680"
+        }
+    },
+    "64": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "WRF",
+            "event_name": "LEI",
+            "first_date": "1/11/2010",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 3",
+            "id": "13734"
+        }
+    },
+    "65": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "1/10/2010",
+            "num_perfs": "1",
+            "first_soloist": "Ba, Duoming 11",
+            "id": "10221"
+        }
+    },
+    "66": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/8/2010",
+            "num_perfs": "2",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10168"
+        }
+    },
+    "67": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/7/2010",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "10676"
+        }
+    },
+    "68": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "RHC",
+            "first_date": "1/6/2010",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10178"
+        }
+    },
+    "69": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NYE",
+            "first_date": "12/31/2009",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "10169"
+        }
+    },
+    "70": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/29/2009",
+            "num_perfs": "3",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "10170"
+        }
+    },
+    "71": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Lindberg, Magnus",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SYM",
+            "event_name": "NME",
+            "first_date": "12/17/2009",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "10213"
+        }
+    },
+    "72": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Rilling, Helmuth",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/15/2009",
+            "num_perfs": "5",
+            "first_soloist": "Dasch, Annette 11",
+            "id": "10166"
+        }
+    },
+    "73": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "12/13/2009",
+            "num_perfs": "1",
+            "first_soloist": "Tsypin, Vladimir 8",
+            "id": "10217"
+        }
+    },
+    "74": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Holtan, Timothy J.",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Holiday Brass",
+            "first_date": "12/13/2009",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "10342"
+        }
+    },
+    "75": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Boico, Daniel",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "12/12/2009",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 4",
+            "id": "10165"
+        }
+    },
+    "76": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Dohnanyi, Christoph von",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/10/2009",
+            "num_perfs": "3",
+            "first_soloist": "Dicterow, Glenn 2",
+            "id": "10167"
+        }
+    },
+    "77": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "12/3/2009",
+            "num_perfs": "4",
+            "first_soloist": "Fray, David",
+            "id": "10164"
+        }
+    },
+    "78": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Boico, Daniel",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "12/2/2009",
+            "num_perfs": "1",
+            "first_soloist": "Perlman, Itzhak",
+            "id": "10218"
+        }
+    },
+    "79": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "11/28/2009",
+            "num_perfs": "1",
+            "first_soloist": "Dicterow, Glenn 6",
+            "id": "10163"
+        }
+    },
+    "80": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/27/2009",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "10162"
+        }
+    },
+    "81": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Washington, DC",
+            "first_venue": "KC",
+            "event_name": "RO",
+            "first_date": "11/21/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "13588"
+        }
+    },
+    "82": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Philadelphia, PA",
+            "first_venue": "KIM",
+            "event_name": "RO",
+            "first_date": "11/20/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "13587"
+        }
+    },
+    "83": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/19/2009",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "10161"
+        }
+    },
+    "84": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Staten Island, NY",
+            "first_venue": "CUNY",
+            "event_name": "C",
+            "first_date": "11/16/2009",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 7",
+            "id": "10237"
+        }
+    },
+    "85": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "11/15/2009",
+            "num_perfs": "1",
+            "first_soloist": "Martinez [Mart\u00ednez] Forteza, Pascual",
+            "id": "10489"
+        }
+    },
+    "86": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Zhang, Xian",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/12/2009",
+            "num_perfs": "4",
+            "first_soloist": "Ohlsson, Garrick",
+            "id": "10160"
+        }
+    },
+    "87": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Boico, Daniel",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "11/7/2009",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 3",
+            "id": "10159"
+        }
+    },
+    "88": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Jarvi [J\u00e4rvi], Neeme",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "11/5/2009",
+            "num_perfs": "4",
+            "first_soloist": "Martinpelto, Hillevi 2",
+            "id": "10158"
+        }
+    },
+    "89": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "11/4/2009",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 4",
+            "id": "10625"
+        }
+    },
+    "90": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "INS",
+            "first_date": "11/2/2009",
+            "num_perfs": "1",
+            "first_soloist": "Hampson, Thomas",
+            "id": "13732"
+        }
+    },
+    "91": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "10/31/2009",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel 5",
+            "id": "10579"
+        }
+    },
+    "92": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "NS",
+            "first_date": "10/30/2009",
+            "num_perfs": "2",
+            "first_soloist": "Ax, Emanuel",
+            "id": "10578"
+        }
+    },
+    "93": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Boico, Daniel",
+            "orch": "MUS",
+            "first_location": "Abu Dhabi, UNITED ARAB EMIRATES",
+            "first_venue": "EMI",
+            "event_name": "TY",
+            "first_date": "10/24/2009",
+            "num_perfs": "1",
+            "first_soloist": "Wiprud, Theodore 2",
+            "id": "10485"
+        }
+    },
+    "94": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Al Ain, UNITED ARAB EMIRATES",
+            "first_venue": "JAH",
+            "event_name": "T",
+            "first_date": "10/24/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10442"
+        }
+    },
+    "95": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Abu Dhabi, UNITED ARAB EMIRATES",
+            "first_venue": "EMI",
+            "event_name": "T",
+            "first_date": "10/23/2009",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "10340"
+        }
+    },
+    "96": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Abu Dhabi, UNITED ARAB EMIRATES",
+            "first_venue": "AMB",
+            "event_name": "TC",
+            "first_date": "10/22/2009",
+            "num_perfs": "1",
+            "first_soloist": "Dicterow, Glenn 4",
+            "id": "10679"
+        }
+    },
+    "97": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Singapore",
+            "first_venue": "ESP",
+            "event_name": "T",
+            "first_date": "10/20/2009",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "10339"
+        }
+    },
+    "98": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Singapore",
+            "first_venue": "ESP",
+            "event_name": "T",
+            "first_date": "10/19/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10584"
+        }
+    },
+    "99": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Singapore",
+            "first_venue": "SFS",
+            "event_name": "TC",
+            "first_date": "10/18/2009",
+            "num_perfs": "1",
+            "first_soloist": "Smith, Philip 5",
+            "id": "10678"
+        }
+    },
+    "100": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Hanoi, VIETNAM",
+            "first_venue": "HOP",
+            "event_name": "T",
+            "first_date": "10/17/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10484"
+        }
+    },
+    "101": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Hanoi, VIETNAM",
+            "first_venue": "HOP",
+            "event_name": "T",
+            "first_date": "10/16/2009",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "10483"
+        }
+    },
+    "102": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Seoul, KOREA",
+            "first_venue": "SAC",
+            "event_name": "T",
+            "first_date": "10/13/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10195"
+        }
+    },
+    "103": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Seoul, KOREA",
+            "first_venue": "SAC",
+            "event_name": "T",
+            "first_date": "10/12/2009",
+            "num_perfs": "1",
+            "first_soloist": "Choi, Ye-Eun",
+            "id": "10338"
+        }
+    },
+    "104": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "10/10/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10155"
+        }
+    },
+    "105": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "TY",
+            "first_date": "10/10/2009",
+            "num_perfs": "1",
+            "first_soloist": "Suzuki, Manabu",
+            "id": "10157"
+        }
+    },
+    "106": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "10/9/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10212"
+        }
+    },
+    "107": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "10/8/2009",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "10154"
+        }
+    },
+    "108": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "COM",
+            "event_name": "TC",
+            "first_date": "10/6/2009",
+            "num_perfs": "1",
+            "first_soloist": "Dicterow, Glenn 4",
+            "id": "10677"
+        }
+    },
+    "109": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Katonah, NY",
+            "first_venue": "CAR",
+            "event_name": "RO",
+            "first_date": "10/2/2009",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "10153"
+        }
+    },
+    "110": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/30/2009",
+            "num_perfs": "3",
+            "first_soloist": "Ax, Emanuel",
+            "id": "10152"
+        }
+    },
+    "111": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/26/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10577"
+        }
+    },
+    "112": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/25/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10574"
+        }
+    },
+    "113": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/24/2009",
+            "num_perfs": "1",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "10151"
+        }
+    },
+    "114": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/17/2009",
+            "num_perfs": "3",
+            "first_soloist": "Lang, Petra 4",
+            "id": "10150"
+        }
+    },
+    "115": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "9/16/2009",
+            "num_perfs": "1",
+            "first_soloist": "Fleming, Renee (Ren\u00e9e)",
+            "id": "10149"
+        }
+    },
+    "116": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Fisch, Asher",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CH",
+            "event_name": "NS",
+            "first_date": "9/12/2009",
+            "num_perfs": "1",
+            "first_soloist": "Anastasio, Trey",
+            "id": "10443"
+        }
+    },
+    "117": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "Fisch, Asher",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CH",
+            "event_name": "NS",
+            "first_date": "9/8/2009",
+            "num_perfs": "3",
+            "first_soloist": "Bocelli, Andrea",
+            "id": "10444"
+        }
+    },
+    "118": {
+        "metadata": {
+            "season": "2009-10",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Dallas, TX",
+            "first_venue": "CS",
+            "event_name": "C",
+            "first_date": "9/1/2009",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 4",
+            "id": "10495"
+        }
+    },
+    "119": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/31/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10027"
+        }
+    },
+    "120": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/30/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10026"
+        }
+    },
+    "121": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/29/2009",
+            "num_perfs": "1",
+            "first_soloist": "Graves, Denyce",
+            "id": "10025"
+        }
+    },
+    "122": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell 2",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/26/2009",
+            "num_perfs": "1",
+            "first_soloist": "Dinnerstein, Simone",
+            "id": "10024"
+        }
+    },
+    "123": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/25/2009",
+            "num_perfs": "1",
+            "first_soloist": "Szeps-Znaider, Nikolaj",
+            "id": "10023"
+        }
+    },
+    "124": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/24/2009",
+            "num_perfs": "1",
+            "first_soloist": "Gunn, Nathan",
+            "id": "10022"
+        }
+    },
+    "125": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Staten Island, NY",
+            "first_venue": "CFA",
+            "event_name": "FIC",
+            "first_date": "7/18/2009",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "10282"
+        }
+    },
+    "126": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CPG",
+            "event_name": "P",
+            "first_date": "7/17/2009",
+            "num_perfs": "1",
+            "first_soloist": "Gunn, Nathan",
+            "id": "10016"
+        }
+    },
+    "127": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Bronx, NY",
+            "first_venue": "VCP",
+            "event_name": "P",
+            "first_date": "7/16/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10281"
+        }
+    },
+    "128": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CPG",
+            "event_name": "P",
+            "first_date": "7/14/2009",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "10012"
+        }
+    },
+    "129": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Bethel, NY",
+            "first_venue": "BWC",
+            "event_name": "RO",
+            "first_date": "7/11/2009",
+            "num_perfs": "1",
+            "first_soloist": "Graves, Denyce",
+            "id": "10015"
+        }
+    },
+    "130": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/10/2009",
+            "num_perfs": "1",
+            "first_soloist": "Graves, Denyce",
+            "id": "10505"
+        }
+    },
+    "131": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/9/2009",
+            "num_perfs": "1",
+            "first_soloist": "Graves, Denyce",
+            "id": "10014"
+        }
+    },
+    "132": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/7/2009",
+            "num_perfs": "2",
+            "first_soloist": "Dinnerstein, Simone",
+            "id": "10013"
+        }
+    },
+    "133": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/4/2009",
+            "num_perfs": "1",
+            "first_soloist": "Hamelin, Marc-Andr\u00e9",
+            "id": "10488"
+        }
+    },
+    "134": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "7/3/2009",
+            "num_perfs": "1",
+            "first_soloist": "Hamelin, Marc-Andr\u00e9",
+            "id": "10011"
+        }
+    },
+    "135": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SC",
+            "first_date": "6/30/2009",
+            "num_perfs": "3",
+            "first_soloist": "Feltsman, Vladimir",
+            "id": "10010"
+        }
+    },
+    "136": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/24/2009",
+            "num_perfs": "4",
+            "first_soloist": "Brewer, Christine 11",
+            "id": "9857"
+        }
+    },
+    "137": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "undefined",
+            "event_name": "C",
+            "first_date": "6/23/2009",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 5",
+            "id": "11780"
+        }
+    },
+    "138": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Greenvale, NY",
+            "first_venue": "TIL",
+            "event_name": "RO",
+            "first_date": "6/19/2009",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 4",
+            "id": "9985"
+        }
+    },
+    "139": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/17/2009",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "9856"
+        }
+    },
+    "140": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "6/14/2009",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 9",
+            "id": "10936"
+        }
+    },
+    "141": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin 2",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/11/2009",
+            "num_perfs": "3",
+            "first_soloist": "Gustafson, Nancy 6",
+            "id": "9855"
+        }
+    },
+    "142": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STR",
+            "event_name": "PAT",
+            "first_date": "6/8/2009",
+            "num_perfs": "1",
+            "first_soloist": "Alessi, Joseph 17",
+            "id": "13663"
+        }
+    },
+    "143": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Newark, NJ",
+            "first_venue": "PRU",
+            "event_name": "RO",
+            "first_date": "6/5/2009",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 4",
+            "id": "9984"
+        }
+    },
+    "144": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "6/4/2009",
+            "num_perfs": "3",
+            "first_soloist": "Kim, Michelle 5",
+            "id": "9854"
+        }
+    },
+    "145": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "INS",
+            "first_date": "6/2/2009",
+            "num_perfs": "1",
+            "first_soloist": "Keller, James M. 2",
+            "id": "13730"
+        }
+    },
+    "146": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Musiker, Lee",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/30/2009",
+            "num_perfs": "1",
+            "first_soloist": "Cook, Barbara 4",
+            "id": "10003"
+        }
+    },
+    "147": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "SJD",
+            "first_date": "5/25/2009",
+            "num_perfs": "1",
+            "first_soloist": "Gomyo, Karen",
+            "id": "10002"
+        }
+    },
+    "148": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Zinman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/16/2009",
+            "num_perfs": "1",
+            "first_soloist": "Tetzlaff, Christian",
+            "id": "10379"
+        }
+    },
+    "149": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Zinman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "ITM",
+            "first_date": "5/15/2009",
+            "num_perfs": "1",
+            "first_soloist": "McBurney, Gerard",
+            "id": "9983"
+        }
+    },
+    "150": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Zinman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "5/14/2009",
+            "num_perfs": "1",
+            "first_soloist": "Tetzlaff, Christian",
+            "id": "9852"
+        }
+    },
+    "151": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Zinman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "RHC",
+            "first_date": "5/13/2009",
+            "num_perfs": "1",
+            "first_soloist": "Tetzlaff, Christian",
+            "id": "9853"
+        }
+    },
+    "152": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MET",
+            "event_name": "C",
+            "first_date": "5/12/2009",
+            "num_perfs": "1",
+            "first_soloist": "Hodges, Nicolas 5",
+            "id": "10201"
+        }
+    },
+    "153": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "ALI",
+            "event_name": "S",
+            "first_date": "5/11/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10441"
+        }
+    },
+    "154": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "5/10/2009",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 9",
+            "id": "10932"
+        }
+    },
+    "155": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "HN",
+            "first_date": "5/7/2009",
+            "num_perfs": "3",
+            "first_soloist": "DiDonato, Joyce 4",
+            "id": "9851"
+        }
+    },
+    "156": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gier, Delta David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "5/2/2009",
+            "num_perfs": "1",
+            "first_soloist": "Alexander, Adam 4",
+            "id": "9850"
+        }
+    },
+    "157": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/30/2009",
+            "num_perfs": "4",
+            "first_soloist": "Bell, Joshua",
+            "id": "9849"
+        }
+    },
+    "158": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Not conducted",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "4/26/2009",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 9",
+            "id": "11066"
+        }
+    },
+    "159": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/22/2009",
+            "num_perfs": "4",
+            "first_soloist": "None",
+            "id": "9848"
+        }
+    },
+    "160": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Hamlisch, Marvin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "PFB",
+            "first_date": "4/20/2009",
+            "num_perfs": "1",
+            "first_soloist": "Brown, Ashley 10",
+            "id": "9952"
+        }
+    },
+    "161": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "4/19/2009",
+            "num_perfs": "1",
+            "first_soloist": "Myers, Philip 15",
+            "id": "10140"
+        }
+    },
+    "162": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/15/2009",
+            "num_perfs": "4",
+            "first_soloist": "Uchida, Mitsuko",
+            "id": "9847"
+        }
+    },
+    "163": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SMC",
+            "first_date": "4/4/2009",
+            "num_perfs": "1",
+            "first_soloist": "Drucker, Stanley 5",
+            "id": "9844"
+        }
+    },
+    "164": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "4/2/2009",
+            "num_perfs": "3",
+            "first_soloist": "Batiashvili, Lisa",
+            "id": "9845"
+        }
+    },
+    "165": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Dutoit, Charles",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "RHC",
+            "first_date": "4/1/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9846"
+        }
+    },
+    "166": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gier, Delta David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Y",
+            "first_date": "3/28/2009",
+            "num_perfs": "1",
+            "first_soloist": "Attebury, Melissa 5",
+            "id": "9838"
+        }
+    },
+    "167": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "McGegan, Nicholas",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/26/2009",
+            "num_perfs": "3",
+            "first_soloist": "Schaefer [Sch\u00e4fer], Christine",
+            "id": "9843"
+        }
+    },
+    "168": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Not conducted",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "3/23/2009",
+            "num_perfs": "1",
+            "first_soloist": "Dicterow, Glenn 5",
+            "id": "11067"
+        }
+    },
+    "169": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Mehta, Zubin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "HN",
+            "first_date": "3/21/2009",
+            "num_perfs": "1",
+            "first_soloist": "PercaDu 2",
+            "id": "10279"
+        }
+    },
+    "170": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Mehta, Zubin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "HN",
+            "first_date": "3/20/2009",
+            "num_perfs": "1",
+            "first_soloist": "PercaDu 2",
+            "id": "10267"
+        }
+    },
+    "171": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Mehta, Zubin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "HN",
+            "first_date": "3/19/2009",
+            "num_perfs": "1",
+            "first_soloist": "PercaDu 2",
+            "id": "10255"
+        }
+    },
+    "172": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Mehta, Zubin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "HN",
+            "first_date": "3/18/2009",
+            "num_perfs": "1",
+            "first_soloist": "PercaDu 2",
+            "id": "9842"
+        }
+    },
+    "173": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "3/15/2009",
+            "num_perfs": "1",
+            "first_soloist": "Lu, Kuan Cheng 10",
+            "id": "10138"
+        }
+    },
+    "174": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "3/15/2009",
+            "num_perfs": "1",
+            "first_soloist": "Szeps-Znaider, Nikolaj 8",
+            "id": "9858"
+        }
+    },
+    "175": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "3/13/2009",
+            "num_perfs": "2",
+            "first_soloist": "Stacy, Thomas 2",
+            "id": "9975"
+        }
+    },
+    "176": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Chicago, IL",
+            "first_venue": "ORC",
+            "event_name": "T",
+            "first_date": "3/9/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "10001"
+        }
+    },
+    "177": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "T",
+            "first_date": "3/8/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9999"
+        }
+    },
+    "178": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "T",
+            "first_date": "3/7/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9998"
+        }
+    },
+    "179": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Danville, KY",
+            "first_venue": "NOR",
+            "event_name": "T",
+            "first_date": "3/5/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9997"
+        }
+    },
+    "180": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Chapel Hill, NC",
+            "first_venue": "MEM",
+            "event_name": "T",
+            "first_date": "3/4/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9996"
+        }
+    },
+    "181": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Chapel Hill, NC",
+            "first_venue": "MEM",
+            "event_name": "T",
+            "first_date": "3/3/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9995"
+        }
+    },
+    "182": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "San Juan, PUERTO RICO",
+            "first_venue": "UPR",
+            "event_name": "T",
+            "first_date": "3/1/2009",
+            "num_perfs": "1",
+            "first_soloist": "Ehnes, James",
+            "id": "9994"
+        }
+    },
+    "183": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "San Juan, PUERTO RICO",
+            "first_venue": "CBA",
+            "event_name": "T",
+            "first_date": "2/28/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9993"
+        }
+    },
+    "184": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Miami, FL",
+            "first_venue": "AAC",
+            "event_name": "T",
+            "first_date": "2/26/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9992"
+        }
+    },
+    "185": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Sarasota, FL",
+            "first_venue": "PAH",
+            "event_name": "T",
+            "first_date": "2/25/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9991"
+        }
+    },
+    "186": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Naples, FL",
+            "first_venue": "PCA",
+            "event_name": "T",
+            "first_date": "2/23/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "13319"
+        }
+    },
+    "187": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "West Palm Beach, FL",
+            "first_venue": "KRA",
+            "event_name": "T",
+            "first_date": "2/22/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9989"
+        }
+    },
+    "188": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Atlanta, GA",
+            "first_venue": "SCH",
+            "event_name": "T",
+            "first_date": "2/21/2009",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "9953"
+        }
+    },
+    "189": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CH",
+            "event_name": "S",
+            "first_date": "2/18/2009",
+            "num_perfs": "1",
+            "first_soloist": "Thibaudet, Jean-Yves",
+            "id": "9841"
+        }
+    },
+    "190": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Maazel, Lorin",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "CH",
+            "event_name": "S",
+            "first_date": "2/17/2009",
+            "num_perfs": "1",
+            "first_soloist": "Mentzer, Susanne 11",
+            "id": "9840"
+        }
+    },
+    "191": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "2/15/2009",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 14",
+            "id": "10137"
+        }
+    },
+    "192": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gier, Delta David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "2/13/2009",
+            "num_perfs": "2",
+            "first_soloist": "Martinez, Margarita 7",
+            "id": "10226"
+        }
+    },
+    "193": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gier, Delta David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "2/12/2009",
+            "num_perfs": "1",
+            "first_soloist": "Martinez, Margarita 8",
+            "id": "10225"
+        }
+    },
+    "194": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gier, Delta David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "2/11/2009",
+            "num_perfs": "2",
+            "first_soloist": "Martinez, Margarita 8",
+            "id": "9956"
+        }
+    },
+    "195": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Gier, Delta David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "2/11/2009",
+            "num_perfs": "1",
+            "first_soloist": "Martinez, Margarita 8",
+            "id": "10224"
+        }
+    },
+    "196": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Masur, Kurt",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "2/4/2009",
+            "num_perfs": "4",
+            "first_soloist": "Mutter, Anne-Sophie 6",
+            "id": "9839"
+        }
+    },
+    "197": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "WRF",
+            "event_name": "INS",
+            "first_date": "2/2/2009",
+            "num_perfs": "1",
+            "first_soloist": "Keller, James M. 11",
+            "id": "13729"
+        }
+    },
+    "198": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "Muti, Riccardo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "AFH",
+            "event_name": "SUB",
+            "first_date": "1/29/2009",
+            "num_perfs": "3",
+            "first_soloist": "Lupu, Radu",
+            "id": "9837"
+        }
+    },
+    "199": {
+        "metadata": {
+            "season": "2008-09",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "GEO",
+            "event_name": "PAT",
+            "first_date": "1/28/2009",
+            "num_perfs": "1",
+            "first_soloist": "Martinez [Mart\u00ednez] Forteza, Pascual",
+            "id": "10223"
+        }
+    }
+}

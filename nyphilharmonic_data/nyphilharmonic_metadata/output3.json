@@ -1,0 +1,2802 @@
+{
+    "0": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "COS",
+            "event_name": "PAT",
+            "first_date": "11/27/2018",
+            "num_perfs": "1",
+            "first_soloist": "Allen, Nancy 3",
+            "id": "14457"
+        }
+    },
+    "1": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Haim (Ha\u00efm), Emmanuelle",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "11/24/2018",
+            "num_perfs": "1",
+            "first_soloist": "Staples, Sheryl 4",
+            "id": "14217"
+        }
+    },
+    "2": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Haim (Ha\u00efm), Emmanuelle",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/21/2018",
+            "num_perfs": "3",
+            "first_soloist": "Staples, Sheryl 4",
+            "id": "14216"
+        }
+    },
+    "3": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "New, Gemma",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "11/17/2018",
+            "num_perfs": "1",
+            "first_soloist": "Mainzer, Amy 5",
+            "id": "14215"
+        }
+    },
+    "4": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Honeck, Manfred",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/15/2018",
+            "num_perfs": "3",
+            "first_soloist": "Zimmermann, Frank Peter",
+            "id": "14214"
+        }
+    },
+    "5": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "11/10/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kahane, Gabriel 5",
+            "id": "14368"
+        }
+    },
+    "6": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Fischer, Ivan [Iv\u00e1n]",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/7/2018",
+            "num_perfs": "3",
+            "first_soloist": "Persson, Miah 2",
+            "id": "14213"
+        }
+    },
+    "7": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Valcuha [Val\u010duha], Juraj",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/31/2018",
+            "num_perfs": "3",
+            "first_soloist": "Huang, Frank",
+            "id": "14212"
+        }
+    },
+    "8": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Sokhiev, Tugan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "10/27/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 5",
+            "id": "14211"
+        }
+    },
+    "9": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Sokhiev, Tugan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/26/2018",
+            "num_perfs": "2",
+            "first_soloist": "Shaham, Gil",
+            "id": "14343"
+        }
+    },
+    "10": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Sokhiev, Tugan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/25/2018",
+            "num_perfs": "1",
+            "first_soloist": "Shaham, Gil",
+            "id": "14210"
+        }
+    },
+    "11": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "NWM",
+            "event_name": "PAT",
+            "first_date": "10/23/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 5",
+            "id": "14456"
+        }
+    },
+    "12": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "10/21/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kitsopoulos, Maria 11",
+            "id": "14294"
+        }
+    },
+    "13": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Stern, Michael",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/17/2018",
+            "num_perfs": "3",
+            "first_soloist": "Bell, Joshua",
+            "id": "14340"
+        }
+    },
+    "14": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Stern, Michael",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/16/2018",
+            "num_perfs": "1",
+            "first_soloist": "Bell, Joshua 2",
+            "id": "14209"
+        }
+    },
+    "15": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "10/13/2018",
+            "num_perfs": "1",
+            "first_soloist": "Andriessen, Louis 3",
+            "id": "14341"
+        }
+    },
+    "16": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/12/2018",
+            "num_perfs": "2",
+            "first_soloist": "Ohlsson, Garrick 3",
+            "id": "14338"
+        }
+    },
+    "17": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "10/11/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kamath, Vivek 5",
+            "id": "14455"
+        }
+    },
+    "18": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/10/2018",
+            "num_perfs": "1",
+            "first_soloist": "Ohlsson, Garrick 3",
+            "id": "14208"
+        }
+    },
+    "19": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "NSD",
+            "event_name": "C",
+            "first_date": "10/8/2018",
+            "num_perfs": "4",
+            "first_soloist": "Germino, Monica 5",
+            "id": "14342"
+        }
+    },
+    "20": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "APP",
+            "event_name": "Sound ON",
+            "first_date": "10/7/2018",
+            "num_perfs": "1",
+            "first_soloist": "Huebner, Eric 18",
+            "id": "14336"
+        }
+    },
+    "21": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/4/2018",
+            "num_perfs": "3",
+            "first_soloist": "Josefowicz, Leila 2",
+            "id": "14207"
+        }
+    },
+    "22": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "Nightcap",
+            "first_date": "9/28/2018",
+            "num_perfs": "1",
+            "first_soloist": "Tao, Conrad 4",
+            "id": "14339"
+        }
+    },
+    "23": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/27/2018",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "14206"
+        }
+    },
+    "24": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/25/2018",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil 5",
+            "id": "14325"
+        }
+    },
+    "25": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/22/2018",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil 5",
+            "id": "14205"
+        }
+    },
+    "26": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/21/2018",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil 5",
+            "id": "14324"
+        }
+    },
+    "27": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/20/2018",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil 5",
+            "id": "14204"
+        }
+    },
+    "28": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Ridder, Andre [Andr\u00e9] de",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/14/2018",
+            "num_perfs": "2",
+            "first_soloist": "Musica Sacra",
+            "id": "14257"
+        }
+    },
+    "29": {
+        "metadata": {
+            "season": "2018-19",
+            "first_conductor": "Brunt, Hugh",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/12/2018",
+            "num_perfs": "2",
+            "first_soloist": "Kim, Michelle",
+            "id": "14258"
+        }
+    },
+    "30": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Graf, Hans",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/27/2018",
+            "num_perfs": "1",
+            "first_soloist": "Lortie, Louis",
+            "id": "14132"
+        }
+    },
+    "31": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/26/2018",
+            "num_perfs": "1",
+            "first_soloist": "Weilerstein, Alisa",
+            "id": "14131"
+        }
+    },
+    "32": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/25/2018",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank",
+            "id": "14130"
+        }
+    },
+    "33": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Vail, CO",
+            "first_venue": "DP",
+            "event_name": "C",
+            "first_date": "7/24/2018",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic String Quartet",
+            "id": "14753"
+        }
+    },
+    "34": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Robertson, David 2",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/22/2018",
+            "num_perfs": "1",
+            "first_soloist": "Li, George 2",
+            "id": "14129"
+        }
+    },
+    "35": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/21/2018",
+            "num_perfs": "1",
+            "first_soloist": "Tovey, Bramwell 3",
+            "id": "14128"
+        }
+    },
+    "36": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/20/2018",
+            "num_perfs": "1",
+            "first_soloist": "Osnes, Laura 3",
+            "id": "14127"
+        }
+    },
+    "37": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SSH",
+            "event_name": "RES",
+            "first_date": "7/8/2018",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14754"
+        }
+    },
+    "38": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/6/2018",
+            "num_perfs": "1",
+            "first_soloist": "Tovey, Bramwell",
+            "id": "14276"
+        }
+    },
+    "39": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/3/2018",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14275"
+        }
+    },
+    "40": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/2/2018",
+            "num_perfs": "1",
+            "first_soloist": "Weilerstein, Alisa",
+            "id": "14274"
+        }
+    },
+    "41": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/1/2018",
+            "num_perfs": "1",
+            "first_soloist": "Capucon (Capu\u00e7on), Renaud",
+            "id": "14273"
+        }
+    },
+    "42": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SSH",
+            "event_name": "RESC",
+            "first_date": "6/29/2018",
+            "num_perfs": "1",
+            "first_soloist": "Langevin, Robert",
+            "id": "14755"
+        }
+    },
+    "43": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Staten Island, NY",
+            "first_venue": "SNU",
+            "event_name": "FIC",
+            "first_date": "6/17/2018",
+            "num_perfs": "1",
+            "first_soloist": "Martinez [Mart\u00ednez] Forteza, Pascual",
+            "id": "14124"
+        }
+    },
+    "44": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gaffigan, James",
+            "orch": "NYP",
+            "first_location": "Bronx, NY",
+            "first_venue": "VCP",
+            "event_name": "P",
+            "first_date": "6/12/2018",
+            "num_perfs": "4",
+            "first_soloist": "Huang, Frank",
+            "id": "14123"
+        }
+    },
+    "45": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "6/8/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kuusisto, Pekka 5",
+            "id": "14121"
+        }
+    },
+    "46": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "UNC",
+            "event_name": "PAT",
+            "first_date": "6/7/2018",
+            "num_perfs": "1",
+            "first_soloist": "Gonzales, Alexei Yupanqui 5",
+            "id": "14335"
+        }
+    },
+    "47": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STR",
+            "event_name": "PAT",
+            "first_date": "6/4/2018",
+            "num_perfs": "1",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14334"
+        }
+    },
+    "48": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "6/3/2018",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 6",
+            "id": "14293"
+        }
+    },
+    "49": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/31/2018",
+            "num_perfs": "5",
+            "first_soloist": "Huang, Frank 2",
+            "id": "14119"
+        }
+    },
+    "50": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Robertson, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "SJD",
+            "first_date": "5/28/2018",
+            "num_perfs": "1",
+            "first_soloist": "Tritle, Kent",
+            "id": "14118"
+        }
+    },
+    "51": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "5/27/2018",
+            "num_perfs": "1",
+            "first_soloist": "Ba, Duoming 12",
+            "id": "14188"
+        }
+    },
+    "52": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/24/2018",
+            "num_perfs": "3",
+            "first_soloist": "Roomful of Teeth 9",
+            "id": "14117"
+        }
+    },
+    "53": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "5/19/2018",
+            "num_perfs": "1",
+            "first_soloist": "Quinn, Nadia 4",
+            "id": "14116"
+        }
+    },
+    "54": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/18/2018",
+            "num_perfs": "3",
+            "first_soloist": "Chamayou, Bertrand",
+            "id": "14115"
+        }
+    },
+    "55": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Bychkov, Semyon",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/17/2018",
+            "num_perfs": "1",
+            "first_soloist": "Chamayou, Bertrand",
+            "id": "14141"
+        }
+    },
+    "56": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "NWC",
+            "event_name": "PAT",
+            "first_date": "5/15/2018",
+            "num_perfs": "1",
+            "first_soloist": "Choi, Janey 3",
+            "id": "14333"
+        }
+    },
+    "57": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "LNK",
+            "event_name": "C",
+            "first_date": "5/14/2018",
+            "num_perfs": "1",
+            "first_soloist": "Li, Qianqian 3",
+            "id": "14332"
+        }
+    },
+    "58": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Szeps-Znaider, Nikolaj",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/11/2018",
+            "num_perfs": "2",
+            "first_soloist": "Wang, Jian",
+            "id": "14126"
+        }
+    },
+    "59": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Szeps-Znaider, Nikolaj",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/10/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Jian",
+            "id": "14114"
+        }
+    },
+    "60": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "COH",
+            "event_name": "PAT",
+            "first_date": "5/7/2018",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 2",
+            "id": "14330"
+        }
+    },
+    "61": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "PAT",
+            "first_date": "5/7/2018",
+            "num_perfs": "1",
+            "first_soloist": "Gam, Chloe 9",
+            "id": "14331"
+        }
+    },
+    "62": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Honeck, Manfred",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/5/2018",
+            "num_perfs": "1",
+            "first_soloist": "Szeps-Znaider, Nikolaj",
+            "id": "14122"
+        }
+    },
+    "63": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Honeck, Manfred",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/3/2018",
+            "num_perfs": "3",
+            "first_soloist": "Szeps-Znaider, Nikolaj",
+            "id": "14113"
+        }
+    },
+    "64": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Artist in Residence / Soloist Recital",
+            "first_date": "5/2/2018",
+            "num_perfs": "1",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "14454"
+        }
+    },
+    "65": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Einhorn, Andy",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "PFB",
+            "first_date": "5/1/2018",
+            "num_perfs": "1",
+            "first_soloist": "McDonald, Audra 4",
+            "id": "14112"
+        }
+    },
+    "66": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gardner, Edward",
+            "orch": "NYP",
+            "first_location": "Greenvale, NY",
+            "first_venue": "TIL",
+            "event_name": "RO",
+            "first_date": "4/27/2018",
+            "num_perfs": "1",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "14111"
+        }
+    },
+    "67": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gardner, Edward",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/26/2018",
+            "num_perfs": "2",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "14110"
+        }
+    },
+    "68": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "YAT",
+            "event_name": "Artist in Residence recital",
+            "first_date": "4/25/2018",
+            "num_perfs": "1",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "14345"
+        }
+    },
+    "69": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Eschenbach, Christoph",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/21/2018",
+            "num_perfs": "2",
+            "first_soloist": "Fellner, Till",
+            "id": "14125"
+        }
+    },
+    "70": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Eschenbach, Christoph",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/19/2018",
+            "num_perfs": "1",
+            "first_soloist": "Fellner, Till",
+            "id": "14088"
+        }
+    },
+    "71": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "PAT",
+            "first_date": "4/18/2018",
+            "num_perfs": "1",
+            "first_soloist": "Simon, Fiona 4",
+            "id": "14254"
+        }
+    },
+    "72": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "4/15/2018",
+            "num_perfs": "1",
+            "first_soloist": "Lee, Hyunju 9",
+            "id": "14187"
+        }
+    },
+    "73": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Kaufman, Richard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/12/2018",
+            "num_perfs": "4",
+            "first_soloist": "Musica Sacra 2",
+            "id": "14283"
+        }
+    },
+    "74": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Kaufman, Richard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/11/2018",
+            "num_perfs": "1",
+            "first_soloist": "Hulce, Tom 3",
+            "id": "14109"
+        }
+    },
+    "75": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "4/10/2018",
+            "num_perfs": "1",
+            "first_soloist": "Grosvenor, Benjamin 5",
+            "id": "14203"
+        }
+    },
+    "76": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "4/8/2018",
+            "num_perfs": "4",
+            "first_soloist": "Young, Rebecca 8",
+            "id": "14277"
+        }
+    },
+    "77": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "C",
+            "first_date": "4/7/2018",
+            "num_perfs": "1",
+            "first_soloist": "Urrey, Anna 10",
+            "id": "14767"
+        }
+    },
+    "78": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "4/7/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 7",
+            "id": "14167"
+        }
+    },
+    "79": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/5/2018",
+            "num_perfs": "1",
+            "first_soloist": "Grosvenor, Benjamin",
+            "id": "14282"
+        }
+    },
+    "80": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/4/2018",
+            "num_perfs": "2",
+            "first_soloist": "Grosvenor, Benjamin",
+            "id": "14108"
+        }
+    },
+    "81": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Milarsky, Jeffrey",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "NSD",
+            "event_name": "NME",
+            "first_date": "4/2/2018",
+            "num_perfs": "1",
+            "first_soloist": "Salonen, Esa-Pekka 13",
+            "id": "14202"
+        }
+    },
+    "82": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Taipei, TAIWAN",
+            "first_venue": "NAT",
+            "event_name": "T",
+            "first_date": "3/18/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14157"
+        }
+    },
+    "83": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Taipei, TAIWAN",
+            "first_venue": "NAT",
+            "event_name": "T",
+            "first_date": "3/17/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14280"
+        }
+    },
+    "84": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Taipei, TAIWAN",
+            "first_venue": "CCN",
+            "event_name": "TP",
+            "first_date": "3/16/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 3",
+            "id": "14409"
+        }
+    },
+    "85": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Nagoya, JAPAN",
+            "first_venue": "SHI",
+            "event_name": "T",
+            "first_date": "3/15/2018",
+            "num_perfs": "1",
+            "first_soloist": "Goto, Ryu",
+            "id": "14151"
+        }
+    },
+    "86": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "3/14/2018",
+            "num_perfs": "1",
+            "first_soloist": "Goto, Ryu",
+            "id": "14143"
+        }
+    },
+    "87": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Tokyo, JAPAN",
+            "first_venue": "SUN",
+            "event_name": "T",
+            "first_date": "3/13/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14142"
+        }
+    },
+    "88": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Kyoto, JAPAN",
+            "first_venue": "KYO",
+            "event_name": "T",
+            "first_date": "3/11/2018",
+            "num_perfs": "1",
+            "first_soloist": "Goto, Ryu",
+            "id": "14140"
+        }
+    },
+    "89": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Beijing, CHINA",
+            "first_venue": "NAT",
+            "event_name": "T",
+            "first_date": "3/9/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14279"
+        }
+    },
+    "90": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Beijing, CHINA",
+            "first_venue": "NAT",
+            "event_name": "T",
+            "first_date": "3/8/2018",
+            "num_perfs": "1",
+            "first_soloist": "Goto, Ryu",
+            "id": "14091"
+        }
+    },
+    "91": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "3/3/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14281"
+        }
+    },
+    "92": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "3/2/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14278"
+        }
+    },
+    "93": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "3/1/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14145"
+        }
+    },
+    "94": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/28/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Yuja",
+            "id": "14107"
+        }
+    },
+    "95": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/22/2018",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "14106"
+        }
+    },
+    "96": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Yu, Long",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "PFB",
+            "first_date": "2/20/2018",
+            "num_perfs": "1",
+            "first_soloist": "Wang, Serena 12",
+            "id": "14105"
+        }
+    },
+    "97": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "2/18/2018",
+            "num_perfs": "1",
+            "first_soloist": "Yao, Shanshan 11",
+            "id": "14186"
+        }
+    },
+    "98": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/14/2018",
+            "num_perfs": "3",
+            "first_soloist": "Melton, Heidi 3",
+            "id": "14104"
+        }
+    },
+    "99": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Pappano, Antonio",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "2/8/2018",
+            "num_perfs": "3",
+            "first_soloist": "Andsnes, Leif Ove 2",
+            "id": "14102"
+        }
+    },
+    "100": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "2/3/2018",
+            "num_perfs": "1",
+            "first_soloist": "Brooklyn Youth Chorus 6",
+            "id": "14101"
+        }
+    },
+    "101": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "2/2/2018",
+            "num_perfs": "2",
+            "first_soloist": "Brooklyn Youth Chorus 3",
+            "id": "14268"
+        }
+    },
+    "102": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "2/1/2018",
+            "num_perfs": "2",
+            "first_soloist": "Brooklyn Youth Chorus 5",
+            "id": "14267"
+        }
+    },
+    "103": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/31/2018",
+            "num_perfs": "1",
+            "first_soloist": "Brooklyn Youth Chorus 4",
+            "id": "14100"
+        }
+    },
+    "104": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Young People's Concerts for Schools",
+            "first_date": "1/31/2018",
+            "num_perfs": "1",
+            "first_soloist": "Brooklyn Youth Chorus 4",
+            "id": "14266"
+        }
+    },
+    "105": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "PAT",
+            "first_date": "1/28/2018",
+            "num_perfs": "1",
+            "first_soloist": "Hammel, Hannah 13",
+            "id": "14329"
+        }
+    },
+    "106": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Deneve [Den\u00e8ve], Stephane [St\u00e9phane]",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/25/2018",
+            "num_perfs": "3",
+            "first_soloist": "Ehnes, James",
+            "id": "14099"
+        }
+    },
+    "107": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "1/21/2018",
+            "num_perfs": "3",
+            "first_soloist": "Young, Rebecca 7",
+            "id": "14272"
+        }
+    },
+    "108": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "1/20/2018",
+            "num_perfs": "1",
+            "first_soloist": "Thibaudet, Jean-Yves 5",
+            "id": "14098"
+        }
+    },
+    "109": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Weilerstein, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/17/2018",
+            "num_perfs": "4",
+            "first_soloist": "Thibaudet, Jean-Yves",
+            "id": "14097"
+        }
+    },
+    "110": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "1/14/2018",
+            "num_perfs": "1",
+            "first_soloist": "Choi, Hannah 14",
+            "id": "14185"
+        }
+    },
+    "111": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Malkki [M\u00e4lkki], Susanna",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/11/2018",
+            "num_perfs": "3",
+            "first_soloist": "Skride, Baiba",
+            "id": "14096"
+        }
+    },
+    "112": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Milarsky, Jeffrey",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "NSD",
+            "event_name": "NME",
+            "first_date": "1/8/2018",
+            "num_perfs": "1",
+            "first_soloist": "Rinehart, Robert 16",
+            "id": "14201"
+        }
+    },
+    "113": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/6/2018",
+            "num_perfs": "2",
+            "first_soloist": "Kahane, Jeffrey 2",
+            "id": "14265"
+        }
+    },
+    "114": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "1/6/2018",
+            "num_perfs": "1",
+            "first_soloist": "Kahane, Jeffrey 5",
+            "id": "14095"
+        }
+    },
+    "115": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Kahane, Jeffrey",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "1/4/2018",
+            "num_perfs": "2",
+            "first_soloist": "Kahane, Jeffrey 2",
+            "id": "14094"
+        }
+    },
+    "116": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NYE",
+            "first_date": "12/31/2017",
+            "num_perfs": "1",
+            "first_soloist": "Osnes, Laura 6",
+            "id": "14093"
+        }
+    },
+    "117": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/30/2017",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14262"
+        }
+    },
+    "118": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/29/2017",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14261"
+        }
+    },
+    "119": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/28/2017",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14260"
+        }
+    },
+    "120": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/27/2017",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14092"
+        }
+    },
+    "121": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Smith, Philip",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Holiday Brass",
+            "first_date": "12/17/2017",
+            "num_perfs": "1",
+            "first_soloist": "Severinsen, Doc 21",
+            "id": "14264"
+        }
+    },
+    "122": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Manze, Andrew",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/13/2017",
+            "num_perfs": "4",
+            "first_soloist": "Harvey, Joelle [Jo\u00e9lle] 11",
+            "id": "14259"
+        }
+    },
+    "123": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Manze, Andrew",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/12/2017",
+            "num_perfs": "1",
+            "first_soloist": "Harvey, Joelle [Jo\u00e9lle] 11",
+            "id": "14089"
+        }
+    },
+    "124": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "12/6/2017",
+            "num_perfs": "4",
+            "first_soloist": "Wang, Liang 4",
+            "id": "14087"
+        }
+    },
+    "125": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "12/3/2017",
+            "num_perfs": "1",
+            "first_soloist": "Ge, Quan 16",
+            "id": "14184"
+        }
+    },
+    "126": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "de Waart, Edo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/30/2017",
+            "num_perfs": "3",
+            "first_soloist": "Ax, Emanuel",
+            "id": "14086"
+        }
+    },
+    "127": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DBL",
+            "event_name": "C",
+            "first_date": "11/29/2017",
+            "num_perfs": "1",
+            "first_soloist": "Young, Rebecca 2",
+            "id": "14328"
+        }
+    },
+    "128": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MEM",
+            "first_location": "Manhattan, NY",
+            "first_venue": "COS",
+            "event_name": "I",
+            "first_date": "11/28/2017",
+            "num_perfs": "1",
+            "first_soloist": "Allen, Nancy 2",
+            "id": "14344"
+        }
+    },
+    "129": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Noseda, Gianandrea",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "11/25/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 5",
+            "id": "14085"
+        }
+    },
+    "130": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Noseda, Gianandrea",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/22/2017",
+            "num_perfs": "3",
+            "first_soloist": "Huang, Frank",
+            "id": "14084"
+        }
+    },
+    "131": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Slatkin, Leonard",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "T",
+            "first_date": "11/19/2017",
+            "num_perfs": "1",
+            "first_soloist": "Brey, Carter 6",
+            "id": "14082"
+        }
+    },
+    "132": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Slatkin, Leonard",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "TY",
+            "first_date": "11/18/2017",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto 6",
+            "id": "14083"
+        }
+    },
+    "133": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "HIL",
+            "event_name": "T",
+            "first_date": "11/17/2017",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14081"
+        }
+    },
+    "134": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "ACK",
+            "event_name": "Off the Grid",
+            "first_date": "11/16/2017",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "14756"
+        }
+    },
+    "135": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Ann Arbor, MI",
+            "first_venue": "FRE",
+            "event_name": "Off the Grid",
+            "first_date": "11/16/2017",
+            "num_perfs": "1",
+            "first_soloist": "Druckman, Daniel 2",
+            "id": "14757"
+        }
+    },
+    "136": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "92Y",
+            "event_name": "C",
+            "first_date": "11/12/2017",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic String Quartet",
+            "id": "14412"
+        }
+    },
+    "137": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Slatkin, Leonard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "Y",
+            "first_date": "11/11/2017",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto 6",
+            "id": "14080"
+        }
+    },
+    "138": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Slatkin, Leonard",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/9/2017",
+            "num_perfs": "3",
+            "first_soloist": "Phelps, Cynthia 6",
+            "id": "14079"
+        }
+    },
+    "139": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "WES",
+            "event_name": "PAT",
+            "first_date": "11/6/2017",
+            "num_perfs": "1",
+            "first_soloist": "Ozone, Makoto 2",
+            "id": "14263"
+        }
+    },
+    "140": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "11/2/2017",
+            "num_perfs": "3",
+            "first_soloist": "McGill, Anthony 2",
+            "id": "14078"
+        }
+    },
+    "141": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/25/2017",
+            "num_perfs": "5",
+            "first_soloist": "Bell, Joshua 2",
+            "id": "14077"
+        }
+    },
+    "142": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "PRE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "KAP",
+            "event_name": "C",
+            "first_date": "10/24/2017",
+            "num_perfs": "1",
+            "first_soloist": "Bernstein, Jamie 4",
+            "id": "14327"
+        }
+    },
+    "143": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Schiff, Andr\u00e1s",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/21/2017",
+            "num_perfs": "1",
+            "first_soloist": "Schiff, Andr\u00e1s 3",
+            "id": "14256"
+        }
+    },
+    "144": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Schiff, Andr\u00e1s",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/20/2017",
+            "num_perfs": "1",
+            "first_soloist": "Schiff, Andr\u00e1s 3",
+            "id": "14255"
+        }
+    },
+    "145": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Schiff, Andr\u00e1s",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/19/2017",
+            "num_perfs": "1",
+            "first_soloist": "Schiff, Andr\u00e1s 3",
+            "id": "14076"
+        }
+    },
+    "146": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "10/15/2017",
+            "num_perfs": "1",
+            "first_soloist": "Yao, Shanshan 15",
+            "id": "14183"
+        }
+    },
+    "147": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Jarvi [J\u00e4rvi], Paavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "10/14/2017",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank 3",
+            "id": "14075"
+        }
+    },
+    "148": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Jarvi [J\u00e4rvi], Paavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/14/2017",
+            "num_perfs": "2",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "14253"
+        }
+    },
+    "149": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Jarvi [J\u00e4rvi], Paavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/13/2017",
+            "num_perfs": "1",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "14074"
+        }
+    },
+    "150": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Jarvi [J\u00e4rvi], Paavo",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "10/12/2017",
+            "num_perfs": "1",
+            "first_soloist": "Andsnes, Leif Ove",
+            "id": "14120"
+        }
+    },
+    "151": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "TIF",
+            "event_name": "PAT",
+            "first_date": "10/10/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Michelle 4",
+            "id": "14326"
+        }
+    },
+    "152": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "10/6/2017",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "14073"
+        }
+    },
+    "153": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "10/4/2017",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "14072"
+        }
+    },
+    "154": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/26/2017",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "14071"
+        }
+    },
+    "155": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "9/22/2017",
+            "num_perfs": "2",
+            "first_soloist": "Labeque [Lab\u00e8que], Katia 2",
+            "id": "14070"
+        }
+    },
+    "156": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "van Zweden, Jaap",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/19/2017",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14007"
+        }
+    },
+    "157": {
+        "metadata": {
+            "season": "2017-18",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "9/15/2017",
+            "num_perfs": "2",
+            "first_soloist": "None",
+            "id": "14133"
+        }
+    },
+    "158": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Santa Barbara, CA",
+            "first_venue": "SBC",
+            "event_name": "T",
+            "first_date": "7/31/2017",
+            "num_perfs": "1",
+            "first_soloist": "Music Academy of the West Orchestra",
+            "id": "13942"
+        }
+    },
+    "159": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/28/2017",
+            "num_perfs": "1",
+            "first_soloist": "Barnatan, Inon 6",
+            "id": "13941"
+        }
+    },
+    "160": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/27/2017",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "13935"
+        }
+    },
+    "161": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/26/2017",
+            "num_perfs": "1",
+            "first_soloist": "McDermott, Anne-Marie",
+            "id": "13939"
+        }
+    },
+    "162": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Vail, CO",
+            "first_venue": "DP",
+            "event_name": "C",
+            "first_date": "7/25/2017",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic String Quartet",
+            "id": "14758"
+        }
+    },
+    "163": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/23/2017",
+            "num_perfs": "1",
+            "first_soloist": "Trifonov, Daniil",
+            "id": "13937"
+        }
+    },
+    "164": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan 2",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/22/2017",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank",
+            "id": "13938"
+        }
+    },
+    "165": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Tovey, Bramwell",
+            "orch": "NYP",
+            "first_location": "Vail, CO",
+            "first_venue": "GRF",
+            "event_name": "T",
+            "first_date": "7/21/2017",
+            "num_perfs": "1",
+            "first_soloist": "Bridges, J'Nai",
+            "id": "13936"
+        }
+    },
+    "166": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/7/2017",
+            "num_perfs": "1",
+            "first_soloist": "Martin, Christopher 3",
+            "id": "14147"
+        }
+    },
+    "167": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SSH",
+            "event_name": "TY",
+            "first_date": "7/4/2017",
+            "num_perfs": "1",
+            "first_soloist": "Dashan 2",
+            "id": "14136"
+        }
+    },
+    "168": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/3/2017",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14148"
+        }
+    },
+    "169": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SHH",
+            "event_name": "T",
+            "first_date": "7/2/2017",
+            "num_perfs": "1",
+            "first_soloist": "Bronfman, Yefim",
+            "id": "14146"
+        }
+    },
+    "170": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Shanghai, CHINA",
+            "first_venue": "SSH",
+            "event_name": "RESC",
+            "first_date": "6/28/2017",
+            "num_perfs": "1",
+            "first_soloist": "Huang, Frank",
+            "id": "14759"
+        }
+    },
+    "171": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "East Hampton, NY",
+            "first_venue": "GUI",
+            "event_name": "C",
+            "first_date": "6/24/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 8",
+            "id": "14200"
+        }
+    },
+    "172": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "East Hampton, NY",
+            "first_venue": "GUI",
+            "event_name": "C",
+            "first_date": "6/24/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kim, Lisa 8",
+            "id": "14189"
+        }
+    },
+    "173": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Staten Island, NY",
+            "first_venue": "SNU",
+            "event_name": "FIC",
+            "first_date": "6/18/2017",
+            "num_perfs": "1",
+            "first_soloist": "Sylar, Sherry 13",
+            "id": "14182"
+        }
+    },
+    "174": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Bronx, NY",
+            "first_venue": "VCP",
+            "event_name": "P",
+            "first_date": "6/13/2017",
+            "num_perfs": "4",
+            "first_soloist": "Salters, Stephen",
+            "id": "14169"
+        }
+    },
+    "175": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "BPG",
+            "event_name": "PAT",
+            "first_date": "6/12/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 5",
+            "id": "14199"
+        }
+    },
+    "176": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "6/10/2017",
+            "num_perfs": "1",
+            "first_soloist": "None",
+            "id": "14179"
+        }
+    },
+    "177": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "6/9/2017",
+            "num_perfs": "1",
+            "first_soloist": "Marsalis, Wynton 4",
+            "id": "14180"
+        }
+    },
+    "178": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "6/8/2017",
+            "num_perfs": "1",
+            "first_soloist": "Ma, Yo-Yo 10",
+            "id": "13932"
+        }
+    },
+    "179": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "STR",
+            "event_name": "PAT",
+            "first_date": "6/5/2017",
+            "num_perfs": "1",
+            "first_soloist": "McGill, Anthony 5",
+            "id": "14198"
+        }
+    },
+    "180": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "6/1/2017",
+            "num_perfs": "3",
+            "first_soloist": "Owens, Eric 16",
+            "id": "13931"
+        }
+    },
+    "181": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "SJD",
+            "event_name": "SJD",
+            "first_date": "5/29/2017",
+            "num_perfs": "1",
+            "first_soloist": "Fang, Ying",
+            "id": "13945"
+        }
+    },
+    "182": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "5/28/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kaufman, Mindy 16",
+            "id": "14022"
+        }
+    },
+    "183": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Hrusa [Hr\u016f\u0161a], Jakub",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/25/2017",
+            "num_perfs": "3",
+            "first_soloist": "Hadelich, Augustin",
+            "id": "13925"
+        }
+    },
+    "184": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Milarsky, Jeffrey",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "NSD",
+            "event_name": "NME",
+            "first_date": "5/22/2017",
+            "num_perfs": "1",
+            "first_soloist": "Jordan, Jamie 19",
+            "id": "14153"
+        }
+    },
+    "185": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "5/20/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kavakos, Leonidas 6",
+            "id": "13930"
+        }
+    },
+    "186": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/20/2017",
+            "num_perfs": "2",
+            "first_soloist": "Kavakos, Leonidas 3",
+            "id": "14181"
+        }
+    },
+    "187": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "C",
+            "first_date": "5/20/2017",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 9",
+            "id": "14769"
+        }
+    },
+    "188": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/19/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kavakos, Leonidas 3",
+            "id": "13929"
+        }
+    },
+    "189": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Newman, David",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "5/12/2017",
+            "num_perfs": "3",
+            "first_soloist": "None",
+            "id": "13928"
+        }
+    },
+    "190": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gersen, Joshua",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "NS",
+            "first_date": "5/11/2017",
+            "num_perfs": "1",
+            "first_soloist": "Symphony Singers, The",
+            "id": "13927"
+        }
+    },
+    "191": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Gilbert, Alan",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "5/3/2017",
+            "num_perfs": "5",
+            "first_soloist": "Ebert, Gabriel 6",
+            "id": "13924"
+        }
+    },
+    "192": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Brooklyn, NY",
+            "first_venue": "YES",
+            "event_name": "Off the Grid",
+            "first_date": "5/2/2017",
+            "num_perfs": "1",
+            "first_soloist": "Kudo, Sumire 6",
+            "id": "14178"
+        }
+    },
+    "193": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "GUT",
+            "event_name": "PAT",
+            "first_date": "5/1/2017",
+            "num_perfs": "1",
+            "first_soloist": "Lee, Hyunju 4",
+            "id": "12227"
+        }
+    },
+    "194": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "BRU",
+            "event_name": "C",
+            "first_date": "4/30/2017",
+            "num_perfs": "1",
+            "first_soloist": "Ruedeman, Timothy 9",
+            "id": "14196"
+        }
+    },
+    "195": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "MUS",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "VY",
+            "first_date": "4/30/2017",
+            "num_perfs": "3",
+            "first_soloist": "Son, Yoobin 8",
+            "id": "14197"
+        }
+    },
+    "196": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Greenvale, NY",
+            "first_venue": "TIL",
+            "event_name": "RO",
+            "first_date": "4/28/2017",
+            "num_perfs": "1",
+            "first_soloist": "Watkins, Richard 4",
+            "id": "13926"
+        }
+    },
+    "197": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Salonen, Esa-Pekka",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SUB",
+            "first_date": "4/27/2017",
+            "num_perfs": "2",
+            "first_soloist": "Watkins, Richard 4",
+            "id": "13923"
+        }
+    },
+    "198": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "None",
+            "orch": "NYE",
+            "first_location": "Manhattan, NY",
+            "first_venue": "MRK",
+            "event_name": "C",
+            "first_date": "4/23/2017",
+            "num_perfs": "1",
+            "first_soloist": "Rabinova, Anna 14",
+            "id": "14021"
+        }
+    },
+    "199": {
+        "metadata": {
+            "season": "2016-17",
+            "first_conductor": "Lewis, Courtney",
+            "orch": "NYP",
+            "first_location": "Manhattan, NY",
+            "first_venue": "DGH",
+            "event_name": "SMC",
+            "first_date": "4/22/2017",
+            "num_perfs": "1",
+            "first_soloist": "New York Philharmonic Principal Brass Quintet",
+            "id": "13944"
+        }
+    }
+}
