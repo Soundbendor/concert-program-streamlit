@@ -35,7 +35,7 @@ Collecting, cleaning, and filtering this data is a cumbersome yet essential part
 ## Design Diagram
 <a name="design_diagram"/>
 
-![diagram](https://github.com/Soundbendor/concert-program-streamlit/design_diagram.png?raw=true)
+![diagram](https://github.com/Soundbendor/concert-program-streamlit/blob/main/diagram.png?raw=true)
 
 ## Repository Navigation
 <a name="repository_navigation"/>
