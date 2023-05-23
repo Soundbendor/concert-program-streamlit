@@ -66,7 +66,7 @@ Future work of this project aligns with the objective. Below are the three most 
 
 * Load more concert data, including program images and NLP data.
 * Automate concert programs loading into database.
-* Host database on the cloud
+* Host database on the cloud.
 
 <a name="future_work"/>
 ## Contributors
