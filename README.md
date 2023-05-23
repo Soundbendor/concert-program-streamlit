@@ -4,10 +4,15 @@ This repository is for the Concert Program OCR Capstone project for Oregon State
 
 ## Table of Contents
 [Project Description](#project_description)
+
 [Repository Navigation](#repository_navigation)
+
 [Design Diagram](#design_diagram)
+
 [How to Run Code](#how_to_run)
+
 [Future Work](#future_work)
+
 [Contributors](#contributors) 
 
 ## Project Description
