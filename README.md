@@ -8,7 +8,7 @@ This repository is for the Concert Program OCR Capstone project for Oregon State
 [Design Diagram](#design_diagram)
 [How to Run Code](#how_to_run)
 [Future Work](#future_work)
-[Contrubutors](#contributors) 
+[Contributors](#contributors) 
 
 <a name="project_description"/>
 ## Project Description
@@ -37,7 +37,8 @@ The repository has three main folders.
 
 ### streamlit
 
-This folder contains the code for hosting the Streamlit page with concert program data available for download as a CSV.
+To run the app locally, make sure streamlit is installed by typing `pip install streamlit`\
+Afterwards, you can use the command `streamlit run streamlit_app.py` to view the app through localhost.
 
 ### database
 
@@ -65,4 +66,14 @@ Future work of this project aligns with the objective. Below are the three most 
 
 * Load more concert data, including program images and NLP data.
 * Automate concert programs loading into database.
-* Host database on the cloud 
+* Host database on the cloud
+
+<a name="contributors"/>
+## Contributors
+
+Team Members: 
+* Jonah Broyer (jonahbroyer.com) 
+* Samson DeVol (samsondevol.com)
+
+Project Partner:
+* Patrick Donnelly (soundbendor.org)
