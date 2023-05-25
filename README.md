@@ -79,8 +79,8 @@ Future work of this project aligns with the objective. Below are the three most 
 <a name="contributors"/>
 
 Team Members: 
-* Jonah Broyer (jonahbroyer.com) 
-* Samson DeVol (samsondevol.com)
+* Jonah Broyer [(jonahbroyer.com)](https://jonahbroyer.com)
+* Samson DeVol [(samsondevol.com)](https://samsondevol.com)
 
 Project Partner:
-* Patrick Donnelly (soundbendor.org)
+* Patrick Donnelly [(soundbendor.org)](https://soundbendor.org/)
