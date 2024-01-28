@@ -11,13 +11,13 @@ METADATA_KEYS = ['season', 'first_conductor', 'orch', 'first_location', 'first_v
 
 start_page = 1
 pages_to_scrape = 200
-get_metadata = FALSE
-get_ocr = TRUE
-get_images = FALSE
+get_metadata = False
+get_ocr = True	
+get_images = False
 
 def write_to_json(concert_dictionary):
 	json_object = json.dumps(concert_dictionary, indent=4)
-	with open("output_ocr1.json", "w") as outfile:
+	with open("output_ocr2.json", "w") as outfile:
 		outfile.write(json_object)
 
 def download_image(image_url):
@@ -50,16 +50,13 @@ def get_page(page_number, driver):
 		rows = grid.find_elements(by=By.TAG_NAME, value="tr")
 		for row in rows[1:]:
 			concert = {}
-			if(get_metadata){
+			if (get_metadata):
 				concert['metadata'] = get_concert_meta_data(row, driver)
-			}
-			if(get_ocr){
+			if (get_ocr):
 				concert['id'] = get_concert_id(row, driver)
 				concert['ocr_text'] = get_concert_ocr(row, driver)
-			}
-			if(get_images){
+			if (get_images):
 				concert['images'] = get_concert_images(row, driver)
-			}
 			concerts[str(i)] = (concert)
 			i+=1
 		page_button = driver.find_element("xpath", '//a[@title="Next"]')

@@ -1,17 +1,19 @@
 import requests 
 import shutil 
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
 from PIL import Image
 from urllib.request import urlopen
 import json
 import time
+from selenium.webdriver.support import expected_conditions as EC 
 
 METADATA_KEYS = ['season', 'first_conductor', 'orch', 'first_location', 'first_venue', 'event_name', 'first_date', 'num_perfs', 'first_soloist', 'id']
 
 start_page = 1
-pages_to_scrape = 200
+pages_to_scrape = 30
 get_metadata = False
 get_ocr = True
 get_images = False
@@ -55,6 +57,7 @@ def get_page(page_number, driver):
 				concert['metadata'] = get_concert_meta_data(row, driver)
 			if (get_ocr):
 				concert['id'] = get_concert_id(row, driver)
+				print(driver.current_url)
 				concert['ocr_text'] = get_concert_ocr(row, driver)
 			if (get_images):
 				concert['images'] = get_concert_images(row, driver)
@@ -73,6 +76,7 @@ def get_concert_images(row, driver):
 	
 	# navigate window
 	image_button = row.find_element(by=By.CLASS_NAME, value="uriCell")
+	
 	image_button.click()
 	driver.switch_to.window(driver.window_handles[1])
 	program_page = driver.find_element(by=By.CLASS_NAME, value="thumb")
@@ -98,11 +102,13 @@ def get_concert_ocr(row, driver):
 	image_button = row.find_element(by=By.CLASS_NAME, value="uriCell")
 	image_button.click()
 	driver.switch_to.window(driver.window_handles[1])
+	element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "docId")))
 	url = driver.current_url
 	print(url)
 	url += "/fullview#page/1/mode/2up"
 	print("url", url)
 	driver2 = webdriver.Firefox()
+	driver2.get(url)
 	# r = requests.head(url)
 	# if r.status_code==200:
 	# 	driver2.get(url)
@@ -120,6 +126,7 @@ def get_concert_ocr(row, driver):
 				print(i)
 				ocr_data.append(content[i].text)
 	driver2.implicitly_wait(20)
+	driver2.quit()
 	driver.close()
 	driver.switch_to.window(driver.window_handles[0])
 	print(ocr_data)
@@ -134,7 +141,7 @@ def initialize():
 	driver.get("https://archives.nyphil.org/performancehistory/#program")
 
 
-	driver.implicitly_wait(1.0)
+	driver.implicitly_wait(3.0)
 	
 	# dropdown_element = driver.find_element(by=By.CSS_SELECTOR, value=".form-control")
 	# select_element = select_container.find_element(by=By.TAG_NAME, value="select")
@@ -151,7 +158,7 @@ def initialize():
 	# # options = Select(driver.find_element("xpath", '//select[@class="form-control]'))
 	# options.select_by_visible_text("Stadium Concert")
 	# option.click()
-	time.sleep(3)
+	driver.implicitly_wait(3)
 	# Select the event type from the dropdown
 	# event_type_dropdown = Select(driver.find_element(by=By.CLASS_NAME, value="form-control"))
 
@@ -171,6 +178,7 @@ def initialize():
 	# 	time.sleep(1)
 
 	## run script to write to JSON
+	print(driver.current_url)
 	concerts = get_page(pages_to_scrape, driver)
 	write_to_json(concerts)	
 
