@@ -1,5 +1,11 @@
 # Concert Program OCR Project
 
+> **This app has been superseded.** The SQL back end it used is gone. The concert program data now lives on in
+> **[EmotioNotes Explorer](https://soundbendor-emotionotes.streamlit.app/)** ([code](https://github.com/Soundbendor/emotionotes-explorer)),
+> which bundles 31,966 New York Philharmonic program notes (1842–2023) with emotion scores from the EmotioNotes dataset
+> (Khanal & Donnelly, EvoMUSART 2025, [doi:10.1007/978-3-031-90167-6_23](https://doi.org/10.1007/978-3-031-90167-6_23)).
+> This repository is kept as the record of the Concert Program Data project (Samson Devol and Jonah Broyer, OSU CRF 2023).
+
 This repository is for the Concert Program OCR Capstone project for Oregon State University and Project Owner Soundbendor Lab.
 
 ## Table of Contents
